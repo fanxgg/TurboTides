@@ -1,0 +1,12 @@
+[
+  {
+    "title": "TurboTides Technology",
+    "description": "Providing solutions of intelligent design, simulation and optimization",
+    "image": "img/slide/slide01.jpg"
+  },
+  {
+    "title": "Innovative Turbomachinery Design",
+    "image": "img/slide/slide02.jpg",
+    "color": "text-white"
+  }
+]
