@@ -1,0 +1,67 @@
+<style>
+.text-full-width-bg {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background-color: #d3f3ee;
+  padding: 40px 0;
+  margin-top: 40px;
+  margin-bottom: 0;
+  position: relative;
+}
+
+/* 创建一个伪元素延伸到页面底部 */
+.text-full-width-bg::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background-color: #d3f3ee;
+  height: 100px; /* 调整为更合适的高度 */
+  z-index: -1;
+}
+
+.text-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  font-size: 0.9em; /* 减小整体文本大小 */
+}
+
+.text-container h3 {
+  margin-top: 0;
+  color: #333;
+  font-size: 1.3em; /* 减小标题大小 */
+}
+
+.text-container ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+.text-container li {
+  margin-bottom: 6px; /* 因字体变小，稍微减小间距 */
+  font-size: 0.95em; /* 单独设置列表项字体大小 */
+}
+
+/* 设置链接样式 */
+.text-container a {
+  color: #0066cc;
+  text-decoration: underline; /* 默认显示下划线 */
+}
+
+.text-container a:hover {
+  text-decoration: underline;
+  color: #004c99; /* 悬停时颜色稍深 */
+}
+</style>
+
+<div class="text-full-width-bg">
+  <div class="text-container">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

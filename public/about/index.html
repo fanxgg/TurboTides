@@ -71,8 +71,11 @@
     </div>
     <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
         <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
-            <a href="http://localhost:1313/"><img alt="TurboTides Logo"
-                    class="h-10 mr-3" src="/img/logo/logo.svg"></a>
+            <a href="http://localhost:1313/" class="flex items-center">
+                <img alt="TurboTides Logo"
+                    class="h-10 mr-3" src="/img/logo/logo.svg">
+                    <span class="font-bold text-2xl tracking-tig">TurboTides</span>
+                </a>       
         </div>
         <div class="block lg:hidden">
             <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
@@ -115,19 +118,52 @@
 <div class="mx-auto my-10 max-w-6xl">
   <div class="mx-3 col-span-3 lg:col-span-2 px-2">
     <h1 class="title text-5xl mb-4">About</h1>
-    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>Written in Go, Hugo is an open source static site generator available under the <a href="https://github.com/gohugoio/hugo/blob/master/LICENSE">Apache Licence 2.0.</a> Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.</p>
-<p>Hugo makes use of a variety of open source projects including:</p>
-<ul>
-<li><a href="https://github.com/yuin/goldmark">https://github.com/yuin/goldmark</a></li>
-<li><a href="https://github.com/alecthomas/chroma">https://github.com/alecthomas/chroma</a></li>
-<li><a href="https://github.com/muesli/smartcrop">https://github.com/muesli/smartcrop</a></li>
-<li><a href="https://github.com/spf13/cobra">https://github.com/spf13/cobra</a></li>
-<li><a href="https://github.com/spf13/viper">https://github.com/spf13/viper</a></li>
-</ul>
-<p>Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</p>
-<p>Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</p>
-<p>Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.</p>
-<p>Learn more and contribute on <a href="https://github.com/gohugoio">GitHub</a>.</p>
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>We provide sales and marketing as well as technical support to TurboTides software, a next generation integrated turbomachinery design system. Through working together with partners, we have the expertise to offer design services that will take your project from an innovative idea into a tested machine.</p>
+<p>Our team is passionate and energetic, bringing together expertise and enthusiasm to drive innovation in turbomachinery design. We believe in fostering a dynamic work environment that encourages creativity, collaboration, and continuous growth.</p>
+<style>
+.full-width-bg {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background-color: #f5f5f5;
+  padding: 40px 0;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  max-width: 1200px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  padding: 0 20px;
+}
+
+.image-container img {
+  width: 22%;
+  height: auto;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .image-container img {
+    width: 45%;
+    margin-bottom: 15px;
+  }
+}
+</style>
+
+<div class="full-width-bg">
+  <div class="image-container">
+    <img src="/img/about/activity.JPG" alt="Image 1">
+    <img src="/img/about/activity2.JPG" alt="Image 2">
+    <img src="/img/about/activity3.JPG" alt="Image 3">
+    <img src="/img/about/activity4.JPG" alt="Image 4">
+  </div>
+</div> 
 </div>
   </div>
 </div>
@@ -188,9 +224,9 @@
           
         </a>
         
-        <a href="https://github.com/opera7133/tella" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+        <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
           
-          <i class='icon-github text-2xl'></i>
+          <i class='fas fa-home text-2xl'></i>
           
         </a>
         

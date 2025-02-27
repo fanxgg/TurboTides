@@ -20,6 +20,85 @@
 <link href='/css/style.min.css' rel="stylesheet" type="text/css">
 <link rel="stylesheet" href='/css/custom.css'>
 
+
+<meta property="og:site_name" content="TurboTides" />
+<meta property="og:title" content="Products | TurboTides" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://localhost:1313/products/" />
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="Products">
+
+
+<meta property="og:image" content="https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png">
+
+<meta name="description" content="At TurboTIdes Technology, we offer three distinct categories of software solutions designed to empower engineers and optimize industrial applications:
+
+High-fidelity Design, Simulation &amp; Optimization Software
+
+
+TurboTides: An integrated design platform for rotating machinery, covering wind turbines, pumps, compressors, and turbines.
+OpTides: A comprehensive, unified platform for the integrated design of fluid and structural systems.
+
+
+System Design &amp; Simulation Software
+
+
+FloTides: Advanced simulation software tailored for fluid network design.
+SysTides: A versatile cross-disciplinary tool for system design simulations, bridging multiple engineering domains.
+
+
+Data Science Software
+
+
+OASIS: Our fourth-generation intelligent optimizer, engineered to drive superior performance through smart optimization.
+RomTides: Specialized software for data modeling and model order reduction, built to meet the demanding needs of industrial applications.
+" />
+<meta property="og:description" content="At TurboTIdes Technology, we offer three distinct categories of software solutions designed to empower engineers and optimize industrial applications:
+
+High-fidelity Design, Simulation &amp; Optimization Software
+
+
+TurboTides: An integrated design platform for rotating machinery, covering wind turbines, pumps, compressors, and turbines.
+OpTides: A comprehensive, unified platform for the integrated design of fluid and structural systems.
+
+
+System Design &amp; Simulation Software
+
+
+FloTides: Advanced simulation software tailored for fluid network design.
+SysTides: A versatile cross-disciplinary tool for system design simulations, bridging multiple engineering domains.
+
+
+Data Science Software
+
+
+OASIS: Our fourth-generation intelligent optimizer, engineered to drive superior performance through smart optimization.
+RomTides: Specialized software for data modeling and model order reduction, built to meet the demanding needs of industrial applications.
+" />
+<meta property="twitter:description" content="At TurboTIdes Technology, we offer three distinct categories of software solutions designed to empower engineers and optimize industrial applications:
+
+High-fidelity Design, Simulation &amp; Optimization Software
+
+
+TurboTides: An integrated design platform for rotating machinery, covering wind turbines, pumps, compressors, and turbines.
+OpTides: A comprehensive, unified platform for the integrated design of fluid and structural systems.
+
+
+System Design &amp; Simulation Software
+
+
+FloTides: Advanced simulation software tailored for fluid network design.
+SysTides: A versatile cross-disciplinary tool for system design simulations, bridging multiple engineering domains.
+
+
+Data Science Software
+
+
+OASIS: Our fourth-generation intelligent optimizer, engineered to drive superior performance through smart optimization.
+RomTides: Specialized software for data modeling and model order reduction, built to meet the demanding needs of industrial applications.
+" />
+
+
 </head>
 
 <body class="flex flex-col min-h-screen">
@@ -55,8 +134,11 @@
     </div>
     <nav class="flex items-center justify-between flex-wrap bg-opacity-100 p-8">
         <div class="flex items-center flex-shrink-0 text-xl text-grey-900 mr-6">
-            <a href="http://localhost:1313/"><img alt="TurboTides Logo"
-                    class="h-10 mr-3" src="/img/logo/logo.svg"></a>       
+            <a href="http://localhost:1313/" class="flex items-center">
+                <img alt="TurboTides Logo"
+                    class="h-10 mr-3" src="/img/logo/logo.svg">
+                    <span class="font-bold text-2xl tracking-tig">TurboTides</span>
+                </a>       
         </div>
         <div class="block lg:hidden">
             <div id="hamburgerbtn" class="flex cursor-pointer items-center w-14 h-10 py-2 rounded mopen">
@@ -97,22 +179,32 @@
       <span class="icon-keyboard_arrow_up text-2xl"></span>
     </div>
 <div class="mx-auto my-10 max-w-6xl">
-    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
-        <h1 class="title text-5xl mb-4">Products</h1>
-        <div class="content py-1"></div>
-        <div class="grid grid-cols-1 md:grid-cols-2 mb-2 gap-2">
-        
-        <a href="http://localhost:1313/products/example/">
-    <div class="summary border p-3">
-        <h2 class="text-3xl">
-            Example Project
-        </h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel.</p>
-    </div>
-</a>
-        
-        </div>
-    </div>
+  <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+    <h1 class="title text-5xl mb-4">Products</h1>
+    <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1"><p>At TurboTIdes Technology, we offer three distinct categories of software solutions designed to empower engineers and optimize industrial applications:</p>
+<ol>
+<li>High-fidelity Design, Simulation &amp; Optimization Software</li>
+</ol>
+<ul>
+<li>TurboTides: An integrated design platform for rotating machinery, covering wind turbines, pumps, compressors, and turbines.</li>
+<li>OpTides: A comprehensive, unified platform for the integrated design of fluid and structural systems.</li>
+</ul>
+<ol start="2">
+<li>System Design &amp; Simulation Software</li>
+</ol>
+<ul>
+<li>FloTides: Advanced simulation software tailored for fluid network design.</li>
+<li>SysTides: A versatile cross-disciplinary tool for system design simulations, bridging multiple engineering domains.</li>
+</ul>
+<ol start="3">
+<li>Data Science Software</li>
+</ol>
+<ul>
+<li>OASIS: Our fourth-generation intelligent optimizer, engineered to drive superior performance through smart optimization.</li>
+<li>RomTides: Specialized software for data modeling and model order reduction, built to meet the demanding needs of industrial applications.</li>
+</ul>
+</div>
+  </div>
 </div>
 
   </main><footer class="bg-tlgray-100">
@@ -171,9 +263,9 @@
           
         </a>
         
-        <a href="https://github.com/opera7133/tella" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
+        <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-gray-300 hover:text-white mr-8">
           
-          <i class='icon-github text-2xl'></i>
+          <i class='fas fa-home text-2xl'></i>
           
         </a>
         

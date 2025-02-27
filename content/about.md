@@ -6,20 +6,8 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+We provide sales and marketing as well as technical support to TurboTides software, a next generation integrated turbomachinery design system. Through working together with partners, we have the expertise to offer design services that will take your project from an innovative idea into a tested machine.
 
-Hugo makes use of a variety of open source projects including:
+Our team is passionate and energetic, bringing together expertise and enthusiasm to drive innovation in turbomachinery design. We believe in fostering a dynamic work environment that encourages creativity, collaboration, and continuous growth.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+{{< about-image "/img/about/activity.JPG" "/img/about/activity2.JPG"  "/img/about/activity3.JPG" "/img/about/activity4.JPG" >}}
