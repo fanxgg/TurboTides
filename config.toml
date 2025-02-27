@@ -37,6 +37,7 @@ enableRobotsTXT = true
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
+    material = true
 
   [params.homepage_meta_tags]
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
@@ -57,7 +58,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "blog"
-    name = "Blog"
+    name = "Business"
     url = "/blog/"
     weight = 2
 

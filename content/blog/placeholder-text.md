@@ -1,8 +1,9 @@
 +++
 author = "Hugo Authors"
-title = "Placeholder Text"
+title = "Engineering technical services"
 date = "2019-03-09"
 description = "Lorem Ipsum Dolor Si Amet"
+image = "/img/blog/engineering_service.png"
 tags = [
     "markdown",
     "text",

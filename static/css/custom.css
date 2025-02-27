@@ -56,3 +56,52 @@ button:hover {
     background-color: #357ab8; /* 悬停时的深蓝色背景 */
 }
 
+/* 工业技术软件内grid样式 */
+.features-grid1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.feature-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: inherit;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.feature-content {
+    text-align: center;
+}
+
+
+.feature-content .material-icons {
+    font-size: 48px;
+    color: #0a577a;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.feature-description {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.5;
+}

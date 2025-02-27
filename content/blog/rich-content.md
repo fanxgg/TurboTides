@@ -1,8 +1,9 @@
 +++
 author = "Hugo Authors"
-title = "Rich Content"
-date = "2019-03-10"
+title = "Software customization development"
+date = "2019-02-26"
 description = "A brief description of Hugo Shortcodes"
+image = "/img/blog/custom_development.png"
 tags = [
     "shortcodes",
     "privacy",

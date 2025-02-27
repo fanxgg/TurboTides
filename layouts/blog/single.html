@@ -1,0 +1,74 @@
+{{ define "meta_tags" }}
+<meta property="og:title" content="{{site.Title}}{{if not .IsHome}} | {{.Title}}{{end}}" />
+{{ partial "seo/print.html" . }}
+
+{{- with .Site.Params.facebookAppId }}
+<meta property="fb:app_id" content="{{ . }}" />
+{{- end }}
+<meta name="twitter:title" content="{{ .Title }}">
+<link rel="preload" href='{{ "/css/sweetalert2.min.css" | relURL }}' as="style"
+    onload="this.onload=null;this.rel='stylesheet'">
+{{ end }}
+{{ define "main" }}
+<div class="mx-auto my-10 max-w-6xl">
+    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
+        <h1 class="title text-3xl font-bold mb-3">{{.Title}}</h1>
+        <section class="mb-4 text-lg">
+            {{ if .Params.author }}
+            <h4 class="flex flex-row items-center"><span class="icon-person text-2xl mr-2"></span>{{.Params.author}}
+            </h4>
+            {{ end }}
+            {{ with .Params.categories }}
+            <div id="categories" class="flex flex-row items-center">
+                <span class="icon-folder text-2xl mr-1"></span>
+                {{ range . }}
+                <span
+                    class="inline-flex py-1 leading-4 content-center justify-center px-1 text-blue-600 hover:text-blue-800 duration-200"><a
+                        href='{{ "categories" | absURL}}/{{ . | urlize }}'>{{ . }}</a></span>
+                {{ end }}
+            </div>
+            {{ end }}
+        </section>
+        <!-- {{ if .Params.image }}
+        <img class="my-4" src="{{ .Params.image | absURL }}">
+        {{ end }}
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">{{.Content}}</div> -->
+        <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">
+            {{ if eq .File.BaseFileName "markdown-syntax" }}
+                {{ with .Site.Data.feature_grid1 }}
+                    <div class="features-grid1">
+                        {{ range . }}
+                        <a href="{{ .doc_url }}" class="feature-card">
+                            <div class="feature-content">
+                                <span class="material-icons">{{ .icon }}</span>
+                                <h3 class="feature-title">{{ .title }}</h3>
+                                <p class="feature-description">{{ .description }}</p>
+                            </div>
+                        </a>
+                        {{ end }}
+                    </div>
+                {{ end }}
+            {{ else }}
+                {{ .Content }}
+            {{ end }}
+        </div>
+ 
+        <hr class="py-4">
+        {{- with .Site.Params.disqusShortname }}
+        <div class="mb-3">
+            {{ template "_internal/disqus.html" . }}
+        </div>
+        <hr class="py-4">
+        {{ end }}
+        <aside id="meta">
+            <div class="flex justify-center">
+                <a class="back-button lg:text-2xl" href="/blog/">
+                    <div style="background-color: #1f2937; color: #d1d5db;" class="transition-colors duration-300 h-auto m-3 text-center py-3 px-6 lg:py-1">
+                        <span class="icon-keyboard_arrow_left"></span> Return
+                    </div>
+                </a>
+            </div>
+        </aside>
+    </div>
+</div>
+{{ end }}

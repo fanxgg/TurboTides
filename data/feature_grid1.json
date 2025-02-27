@@ -1,0 +1,39 @@
+[
+    {
+      "title": "TurboTides",
+      "description": "The new generation integrated turbo mechanical design system provides a complete turbo mechanical design solution.",
+      "icon": "computer",
+      "doc_url": "/blog/Industrial-Technology-Software/turbotides"
+    },
+    {
+      "title": "FloTides",
+      "description": "Professional fluid dynamics analysis software provides you with accurate flow field simulation.",
+      "icon": "waves",
+      "doc_url": "/blog/Industrial-Technology-Software/flotides"
+    },
+    {
+      "title": "OpTides",
+      "description": "Intelligent optimization system, providing efficient design optimization solutions.",
+      "icon": "lightbulb",
+      "doc_url": "/blog/Industrial-Technology-Software/optides"
+    },
+    {
+        "title": "SeniorWorks",
+        "description": "Advanced engineering design tools that support complex engineering project management.",
+        "icon": "engineering",
+        "doc_url": "/blog/Industrial-Technology-Software/seniorworks"
+    },
+    {
+        "title": "OASIS",
+        "description": "Open architecture system integration platform.",
+        "icon": "hub",
+        "doc_url": "/blog/Industrial-Technology-Software/oasis"
+    },
+    {
+        "title": "FEM",
+        "description": "Finite element analysis tool, providing structural strength and thermal analysis functions.",
+        "icon": "grid_on",
+        "doc_url": "/blog/Industrial-Technology-Software/fem"
+        
+    }
+  ]

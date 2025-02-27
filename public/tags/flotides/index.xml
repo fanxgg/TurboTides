@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FloTides on TurboTides</title>
+    <link>http://localhost:1313/tags/flotides/</link>
+    <description>Recent content in FloTides on TurboTides</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/flotides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Industrial Technology Software</title>
+      <link>http://localhost:1313/blog/markdown-syntax/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;We provide sales and marketing as well as technical support to TurboTides software, a next generation integrated turbomachinery design system. Through working together with partners, we have the expertise to offer design services that will take your project from an innovative idea into a tested machine.&lt;/p&gt;&#xA;&lt;div class=&#34;features-grid1&#34;&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/products/turbotides&#34; class=&#34;feature-card&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;feature-content&#34;&gt;&#xD;&#xA;            &lt;i class=&#34;material-icons&#34;&gt;icon-desktop_windows&lt;/i&gt;&#xD;&#xA;            &lt;h3 class=&#34;feature-title&#34;&gt;TurboTides&lt;/h3&gt;&#xD;&#xA;            &lt;p class=&#34;feature-description&#34;&gt;The new generation integrated turbo mechanical design system provides a complete turbo mechanical design solution.&lt;/p&gt;&#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;a href=&#34;http://localhost:1313/products/flotides&#34; class=&#34;feature-card&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;feature-content&#34;&gt;&#xD;&#xA;            &lt;i class=&#34;material-icons&#34;&gt;icon-lightbulb_outline&lt;/i&gt;&#xD;&#xA;            &lt;h3 class=&#34;feature-title&#34;&gt;FloTides&lt;/h3&gt;&#xD;&#xA;            &lt;p class=&#34;feature-description&#34;&gt;Professional fluid dynamics analysis software provides you with accurate flow field simulation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
