@@ -34,23 +34,7 @@
         {{ end }}
         <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">{{.Content}}</div> -->
         <div class="content prose md:prose-lg lg:prose-xl max-w-none py-1">
-            {{ if eq .File.BaseFileName "markdown-syntax" }}
-                {{ with .Site.Data.feature_grid1 }}
-                    <div class="features-grid1">
-                        {{ range . }}
-                        <a href="{{ .doc_url }}" class="feature-card">
-                            <div class="feature-content">
-                                <span class="material-icons">{{ .icon }}</span>
-                                <h3 class="feature-title">{{ .title }}</h3>
-                                <p class="feature-description">{{ .description }}</p>
-                            </div>
-                        </a>
-                        {{ end }}
-                    </div>
-                {{ end }}
-            {{ else }}
-                {{ .Content }}
-            {{ end }}
+            {{ .Content }}
         </div>
  
         <hr class="py-4">

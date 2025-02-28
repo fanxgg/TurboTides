@@ -1,0 +1,14 @@
+<div class="media-content {{ .Get "layout" }}"></div>
+    <div class="media-container">
+        {{ if eq (.Get "type") "image" }}
+            <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+        {{ else if eq (.Get "type") "video" }}
+            <video controls>
+                <source src="{{ .Get "src" }}" type="video/mp4">
+            </video>
+        {{ end }}
+    </div>
+    <div class="content-container">
+        {{ .Inner | markdownify }}
+    </div>
+</div>

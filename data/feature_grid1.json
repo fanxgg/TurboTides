@@ -1,39 +1,39 @@
 [
     {
       "title": "TurboTides",
-      "description": "The new generation integrated turbo mechanical design system provides a complete turbo mechanical design solution.",
+      "description": " An integrated design platform for turbomachinery, covering turbines, pumps, compressors, and turbines",
       "icon": "computer",
-      "doc_url": "/blog/Industrial-Technology-Software/turbotides"
-    },
-    {
-      "title": "FloTides",
-      "description": "Professional fluid dynamics analysis software provides you with accurate flow field simulation.",
-      "icon": "waves",
-      "doc_url": "/blog/Industrial-Technology-Software/flotides"
+      "doc_url": "/products/turbotides"
     },
     {
       "title": "OpTides",
-      "description": "Intelligent optimization system, providing efficient design optimization solutions.",
+      "description": "A comprehensive, unified platform for the integrated design of fluid and structural systems",
       "icon": "lightbulb",
-      "doc_url": "/blog/Industrial-Technology-Software/optides"
+      "doc_url": "/products/optides"
+    },
+    {
+      "title": "FloTides",
+      "description": "Advanced system simulation software tailored for fluid network design",
+      "icon": "waves",
+      "doc_url": "/products/flotides"
     },
     {
         "title": "SeniorWorks",
-        "description": "Advanced engineering design tools that support complex engineering project management.",
+        "description": "Analysis software for structural fatigue, crack propagation and life prediction",
         "icon": "engineering",
-        "doc_url": "/blog/Industrial-Technology-Software/seniorworks"
+        "doc_url": "/products/seniorworks"
     },
     {
         "title": "OASIS",
-        "description": "Open architecture system integration platform.",
+        "description": "The 4th generation intelligent optimizer, driving superior industrial design optimization",
         "icon": "hub",
-        "doc_url": "/blog/Industrial-Technology-Software/oasis"
+        "doc_url": "/products/oasis"
     },
     {
-        "title": "FEM",
-        "description": "Finite element analysis tool, providing structural strength and thermal analysis functions.",
+        "title": "RomTides",
+        "description": "Software for data modeling, and model order reduction for time-sensitive applications",
         "icon": "grid_on",
-        "doc_url": "/blog/Industrial-Technology-Software/fem"
+        "doc_url": "/products/romtides"
         
     }
   ]

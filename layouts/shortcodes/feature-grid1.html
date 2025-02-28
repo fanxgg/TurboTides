@@ -1,8 +1,8 @@
 <div class="features-grid1">
-    {{ range site.Data.feature_grid1 }}
+    {{ range .Site.Data.feature_grid1 }}
     <a href="{{ .doc_url }}" class="feature-card">
         <div class="feature-content">
-            <i class="material-icons">{{ .icon }}</i>
+            <span class="material-icons">{{ .icon }}</span>
             <h3 class="feature-title">{{ .title }}</h3>
             <p class="feature-description">{{ .description }}</p>
         </div>

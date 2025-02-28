@@ -4,7 +4,8 @@
 */
 
 
-/* 表单整体样式 */
+
+/* Contact页面表单整体样式 */
 form {
     max-width: 950px; /* 调整表单的最大宽度 */
     margin: 0 auto;
@@ -56,7 +57,7 @@ button:hover {
     background-color: #357ab8; /* 悬停时的深蓝色背景 */
 }
 
-/* 工业技术软件内grid样式 */
+/* Products内grid样式 */
 .features-grid1 {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -104,4 +105,38 @@ button:hover {
     font-size: 1rem;
     color: #666;
     line-height: 1.5;
+}
+
+/* 图片/视频媒体内容样式 */
+/* 基础布局 */
+.media-content {
+    margin: 2rem 0;
+}
+
+/* 图片/视频在左，文字在右 */
+/* 图片/视频在左，文字在右 */
+.layout-side-by-side {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    max-width: 1000px;  /* 减小最大宽度 */
+    margin: 0 auto;
+}
+
+.layout-side-by-side .media-container {
+    flex: 0 0 auto;  /* 让容器自适应内容大小 */
+    width: 45%;      /* 设置为45%宽度 */
+}
+
+.layout-side-by-side .content-container {
+    flex: 1;
+    padding: 1rem 0;
+}
+
+/* 媒体内容样式 */
+.media-container img,
+.media-container video {
+    width: 100%;
+    height: auto;
+    object-fit: contain;  /* 保持图片比例 */
 }

@@ -58,7 +58,7 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "blog"
-    name = "Business"
+    name = "Blogs/Case Studies"
     url = "/blog/"
     weight = 2
 
