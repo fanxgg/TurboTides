@@ -6,83 +6,62 @@
     <description>Recent content in Tags on TurboTides</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FEM</title>
-      <link>http://localhost:1313/tags/fem/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fem/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FloTides</title>
-      <link>http://localhost:1313/tags/flotides/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/flotides/</guid>
+      <title>Docs</title>
+      <link>http://localhost:1313/tags/docs/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
       <link>http://localhost:1313/tags/index/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/index/</guid>
       <description></description>
     </item>
     <item>
-      <title>OASIS</title>
-      <link>http://localhost:1313/tags/oasis/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/oasis/</guid>
+      <title>RomTides</title>
+      <link>http://localhost:1313/tags/romtides/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/romtides/</guid>
       <description></description>
     </item>
     <item>
-      <title>OpTides</title>
-      <link>http://localhost:1313/tags/optides/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/optides/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SeniorWorks</title>
-      <link>http://localhost:1313/tags/seniorworks/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/seniorworks/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TurboTides</title>
-      <link>http://localhost:1313/tags/turbotides/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/turbotides/</guid>
+      <title>Video</title>
+      <link>http://localhost:1313/tags/video/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/video/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
       <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Text</title>
-      <link>http://localhost:1313/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
       <link>http://localhost:1313/tags/privacy/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
       <link>http://localhost:1313/tags/shortcodes/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Text</title>
+      <link>http://localhost:1313/tags/text/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/text/</guid>
       <description></description>
     </item>
   </channel>

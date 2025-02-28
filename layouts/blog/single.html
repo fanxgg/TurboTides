@@ -22,8 +22,7 @@
             <div id="categories" class="flex flex-row items-center">
                 <span class="icon-folder text-2xl mr-1"></span>
                 {{ range . }}
-                <span
-                    class="inline-flex py-1 leading-4 content-center justify-center px-1 text-blue-600 hover:text-blue-800 duration-200"><a
+                <span class="inline-flex py-1 leading-4 content-center justify-center px-1 text-blue-600 hover:text-blue-800 duration-200"><a
                         href='{{ "categories" | absURL}}/{{ . | urlize }}'>{{ . }}</a></span>
                 {{ end }}
             </div>

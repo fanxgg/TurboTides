@@ -6,21 +6,21 @@
     <description>Recent content in Shortcodes on TurboTides</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Fatigue/Crack Propagation Analysis Product Launch</title>
-      <link>http://localhost:1313/blog/rich-content/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/rich-content/</guid>
+      <title>Generalized Fluid-Structure Integrated Design, Simulation, and Optimization System OpTides</title>
+      <link>http://localhost:1313/blog/20240925-2/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20240925-2/</guid>
       <description>&lt;p&gt;On April 23, 2023, a day before the grand opening of the 8th &amp;ldquo;China Space Day,&amp;rdquo; a Fatigue/Crack Propagation Analysis Software Product Launch was held at the Global Roadshow Center of Zhong&amp;rsquo;an Chuanggu Science and Technology Park in Hefei High-tech Zone. This event was jointly organized by Anhui Jisuan Information Technology Co., Ltd. and Hefei Tai Ze Turbomachinery Technology Co., Ltd.&#xA;The launch aimed to showcase the SeniorCrack product, which represents a significant leap in digital R&amp;amp;D for high-end manufacturing and a crucial step in the transformation and upgrading of China&amp;rsquo;s manufacturing industry. The event invited leaders from relevant departments, industry experts, researchers from institutes, and professors from universities to engage in multidimensional and comprehensive discussions on the development of domestic CAE industrial software.&#xA;Anhui Jisuan Information Technology Co., Ltd. specializes in providing fatigue fracture simulation analysis software and full-stack solutions related to life testing, failure analysis, and engineering optimization for R&amp;amp;D and manufacturing enterprises. Hefei Tai Ze Turbomachinery Technology Co., Ltd., a national high-tech enterprise, focuses on the development of domestic CAE industrial software and related engineering technical services, covering six major business areas: turbomachinery technology, industrial software customization, fluid pipeline networks, structural strength, data science, and general CAE.&#xA;The launch was an important occasion to witness a historic moment and embrace future challenges and explorations&lt;/p&gt;</description>
     </item>
     <item>
       <title>TurboTides Technology Made an Appearance at the 3rd China Intelligent Oil and Gas Pipeline Conference</title>
-      <link>http://localhost:1313/blog/blog4/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog4/</guid>
-      <description>&lt;p&gt;The 3rd China Intelligent Oil and Gas Pipeline Conference was inaugurated in Hangzhou on May 23-24, themed &amp;ldquo;Deepening Industry Intelligent Technology Transformation and Supporting Corporate Digital Transition.&amp;rdquo; Tai Ze Technology was invited to participate in this conference.&#xA;The conference was jointly hosted by the Petroleum Transportation Professional Committee of the China Petroleum Society, the Petroleum and Natural Gas Pipeline Standardization Technical Committee, the Digitalization Department of the National Oil and Gas Pipeline Network Group Co., Ltd., the Science and Technology Department of the National Oil and Gas Pipeline Network Group Co., Ltd., the Oil and Gas &amp;amp; New Energy Branch of PetroChina Company Limited, and the Exploration and Development Department of Sinopec Corporation. Over a hundred exhibitors from national oil and petrochemical companies, academic research institutes, and information technology enterprises were present. They focused on the digital and intelligent transformation of natural gas pipeline systems and engaged in discussions on related key technologies.&lt;/p&gt;</description>
+      <link>http://localhost:1313/blog/20230714/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/20230714/</guid>
+      <description>&lt;p&gt;A problem has multiple solutions, among which there exists one or more optimal solutions.&lt;br&gt;&#xA;There is one or more measurable optimization &lt;strong&gt;objectives&lt;/strong&gt;.&lt;br&gt;&#xA;There is one or more controllable &lt;strong&gt;optimization variables&lt;/strong&gt; that affect the objectives and constraints.&lt;br&gt;&#xA;The problem has one or more &lt;strong&gt;constraints&lt;/strong&gt; that must be satisfied.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

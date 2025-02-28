@@ -109,34 +109,40 @@ button:hover {
 
 /* 图片/视频媒体内容样式 */
 /* 基础布局 */
-.media-content {
-    margin: 2rem 0;
-}
-
-/* 图片/视频在左，文字在右 */
-/* 图片/视频在左，文字在右 */
 .layout-side-by-side {
     display: flex;
-    align-items: flex-start;
+    align-items: center; /* 让图片和文本块整体垂直居中 */
+    justify-content: flex-start; /* 确保内容从左侧开始对齐 */
     gap: 2rem;
-    max-width: 1000px;  /* 减小最大宽度 */
+    max-width: 1200px;  /* 减小最大宽度 */
     margin: 0 auto;
 }
 
 .layout-side-by-side .media-container {
-    flex: 0 0 auto;  /* 让容器自适应内容大小 */
-    width: 45%;      /* 设置为45%宽度 */
+    flex: 0 0 auto;
+    width: 35%; /* 让图片占40%宽度 */
+    display: flex;
+    align-items: center; /* 确保图片垂直居中 */
 }
 
 .layout-side-by-side .content-container {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* 确保文本块整体垂直居中 */
+    align-items: flex-start; /* 确保文本左对齐 */
+    height: 100%; /* 让其撑满父容器 */
     padding: 1rem 0;
 }
 
 /* 媒体内容样式 */
-.media-container img,
 .media-container video {
     width: 100%;
     height: auto;
     object-fit: contain;  /* 保持图片比例 */
+}
+
+.small-image {
+    width: 70%; 
+    height: auto;/* 设置为你想要的宽度 */
 }

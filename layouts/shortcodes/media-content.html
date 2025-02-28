@@ -1,7 +1,7 @@
-<div class="media-content {{ .Get "layout" }}"></div>
+<div class="media-content {{ .Get "layout" }}">
     <div class="media-container">
         {{ if eq (.Get "type") "image" }}
-            <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}">
+            <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" class="{{ .Get "class" }}">
         {{ else if eq (.Get "type") "video" }}
             <video controls>
                 <source src="{{ .Get "src" }}" type="video/mp4">
