@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on TurboTides</title>
-    <link>http://localhost:1313/tags/docs/</link>
+    <link>https://fanxgg.github.io/TurboTides/tags/docs/</link>
     <description>Recent content in Docs on TurboTides</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fanxgg.github.io/TurboTides/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TaiZe&#39;s New Product RomTides is Grandly Launched</title>
-      <link>http://localhost:1313/blog/20241206/</link>
+      <link>https://fanxgg.github.io/TurboTides/blog/20241206/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/20241206/</guid>
+      <guid>https://fanxgg.github.io/TurboTides/blog/20241206/</guid>
       <description>&lt;p&gt;An Intelligent Data Modeling and Model Order Reduction Platform for Industrial Digitalization.&lt;/p&gt;</description>
     </item>
   </channel>
