@@ -9,14 +9,14 @@
     <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pipeline Network Modeling of Low-Temperature Water Systems Based on FloTides</title>
+      <title>Low-Temperature Water Systems Based on FloTides</title>
       <link>http://localhost:1313/blog/20240925/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/20240925/</guid>
       <description>&lt;p&gt;FloTides (abbreviated as FT) is a software independently developed by Tai Ze Technology, focusing on the modeling, simulation, and optimization of complex thermo-fluid network systems. It is capable of performing steady-state and transient analyses of fluid flow, temperature, pressure, and composition, as well as simulating fluid-structure interaction and heat transfer phenomena. The software is applicable to various industries, including nuclear power, energy, chemical engineering, aviation, aerospace, shipping, and automotive. It aims to break through the technological blockade imposed by Western countries and provide strong support for high-end manufacturing.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>TaiZe Technology: Aerodynamic Design of Integral Gear Compressors Based on Turbotides</title>
+      <title>Aerodynamic Design of Integral Gear Compressors Based on Turbotides</title>
       <link>http://localhost:1313/blog/20240712/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/20240712/</guid>
