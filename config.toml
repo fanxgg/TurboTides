@@ -1,4 +1,5 @@
-baseURL = "https://example.com"
+baseURL = "https://fanxgg.github.io/TurboTides"
+canonifyURLs = true
 title = "TurboTides"
 author = "Taize Technology"
 languageCode = "en"
