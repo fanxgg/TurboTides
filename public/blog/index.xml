@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on TurboTides</title>
-    <link>https://fanxgg.github.io/TurboTides/blog/</link>
-    <description>Recent content in Posts on TurboTides</description>
+    <title>Case Studies on TurboTides</title>
+    <link>http://localhost:1313/TurboTides/blog/</link>
+    <description>Recent content in Case Studies on TurboTides</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://fanxgg.github.io/TurboTides/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/TurboTides/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TaiZe&#39;s New Product RomTides is Grandly Launched</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/20241206/</link>
+      <link>http://localhost:1313/TurboTides/blog/20241206/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/20241206/</guid>
+      <guid>http://localhost:1313/TurboTides/blog/20241206/</guid>
       <description>&lt;p&gt;An Intelligent Data Modeling and Model Order Reduction Platform for Industrial Digitalization.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Generalized Design, Simulation, and Optimization System OpTides</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/20240925-2/</link>
+      <link>http://localhost:1313/TurboTides/blog/20240925-2/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/20240925-2/</guid>
+      <guid>http://localhost:1313/TurboTides/blog/20240925-2/</guid>
       <description>&lt;p&gt;On April 23, 2023, a day before the grand opening of the 8th &amp;ldquo;China Space Day,&amp;rdquo; a Fatigue/Crack Propagation Analysis Software Product Launch was held at the Global Roadshow Center of Zhong&amp;rsquo;an Chuanggu Science and Technology Park in Hefei High-tech Zone. This event was jointly organized by Anhui Jisuan Information Technology Co., Ltd. and Hefei Tai Ze Turbomachinery Technology Co., Ltd.&#xA;The launch aimed to showcase the SeniorCrack product, which represents a significant leap in digital R&amp;amp;D for high-end manufacturing and a crucial step in the transformation and upgrading of China&amp;rsquo;s manufacturing industry. The event invited leaders from relevant departments, industry experts, researchers from institutes, and professors from universities to engage in multidimensional and comprehensive discussions on the development of domestic CAE industrial software.&#xA;Anhui Jisuan Information Technology Co., Ltd. specializes in providing fatigue fracture simulation analysis software and full-stack solutions related to life testing, failure analysis, and engineering optimization for R&amp;amp;D and manufacturing enterprises. Hefei Tai Ze Turbomachinery Technology Co., Ltd., a national high-tech enterprise, focuses on the development of domestic CAE industrial software and related engineering technical services, covering six major business areas: turbomachinery technology, industrial software customization, fluid pipeline networks, structural strength, data science, and general CAE.&#xA;The launch was an important occasion to witness a historic moment and embrace future challenges and explorations&lt;/p&gt;</description>
     </item>
     <item>
       <title>Low-Temperature Water Systems Based on FloTides</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/20240925/</link>
+      <link>http://localhost:1313/TurboTides/blog/20240925/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/20240925/</guid>
+      <guid>http://localhost:1313/TurboTides/blog/20240925/</guid>
       <description>&lt;p&gt;FloTides (abbreviated as FT) is a software independently developed by Tai Ze Technology, focusing on the modeling, simulation, and optimization of complex thermo-fluid network systems. It is capable of performing steady-state and transient analyses of fluid flow, temperature, pressure, and composition, as well as simulating fluid-structure interaction and heat transfer phenomena. The software is applicable to various industries, including nuclear power, energy, chemical engineering, aviation, aerospace, shipping, and automotive. It aims to break through the technological blockade imposed by Western countries and provide strong support for high-end manufacturing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aerodynamic Design of Integral Gear Compressors Based on Turbotides</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/20240712/</link>
+      <link>http://localhost:1313/TurboTides/blog/20240712/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/20240712/</guid>
+      <guid>http://localhost:1313/TurboTides/blog/20240712/</guid>
       <description>&lt;p&gt;The field of industrial software is even more critical than chips in terms of constraints. To ensure China&amp;rsquo;s industrial security and the sustainable development of its industries, the development of industrial software has received significant attention, especially the autonomy and controllability of software in special fields, which have been elevated to a highly important status. Tai Ze Technology, as a company specializing in the design and development of CAE industrial software, has accumulated years of industrial knowledge. We continuously upgrade our products and keep launching new products that meet market demands in the field of industrial software design and development.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tai Ze 2024 Technology Exchange Series: GO ON!</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/20240628/</link>
+      <link>http://localhost:1313/TurboTides/blog/20240628/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/20240628/</guid>
+      <guid>http://localhost:1313/TurboTides/blog/20240628/</guid>
       <description>&lt;p&gt;The field of industrial software is even more critical than chips in terms of constraints. To ensure China&amp;rsquo;s industrial security and the sustainable development of its industries, the development of industrial software has received significant attention, especially the autonomy and controllability of software in special fields, which have been elevated to a highly important status. Tai Ze Technology, as a company specializing in the design and development of CAE industrial software, has accumulated years of industrial knowledge. We continuously upgrade our products and keep launching new products that meet market demands in the field of industrial software design and development.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Made an Appearance at the Intelligent Oil and Gas Pipeline Conference</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/20230714/</link>
+      <link>http://localhost:1313/TurboTides/blog/20230714/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/20230714/</guid>
+      <guid>http://localhost:1313/TurboTides/blog/20230714/</guid>
       <description>&lt;p&gt;A problem has multiple solutions, among which there exists one or more optimal solutions.&lt;br&gt;&#xA;There is one or more measurable optimization &lt;strong&gt;objectives&lt;/strong&gt;.&lt;br&gt;&#xA;There is one or more controllable &lt;strong&gt;optimization variables&lt;/strong&gt; that affect the objectives and constraints.&lt;br&gt;&#xA;The problem has one or more &lt;strong&gt;constraints&lt;/strong&gt; that must be satisfied.&lt;/p&gt;</description>
     </item>
   </channel>

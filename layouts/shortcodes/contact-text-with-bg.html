@@ -7,28 +7,20 @@
   margin-left: -50vw;
   margin-right: -50vw;
   background-color: #d3f3ee;
-  padding: 40px 0;
-  margin-top: 40px;
+  padding: 45px 0 30px;
   margin-bottom: 0;
-  position: relative;
+  transform: translateY(50px); /* 整体视觉下移 50px */
+  z-index: -1;
 }
 
-/* 创建一个伪元素延伸到页面底部 */
-.text-full-width-bg::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 0;
-  right: 0;
-  background-color: #d3f3ee;
-  height: 100px; /* 调整为更合适的高度 */
-  z-index: -1;
+body {
+  overflow-x: hidden; /* 隐藏横向滚动条 */
 }
 
 .text-container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 45px;
   font-size: 0.9em; /* 减小整体文本大小 */
 }
 

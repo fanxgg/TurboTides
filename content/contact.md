@@ -1,8 +1,12 @@
 ---
-title: 'Contact'
+title: 'Contact Us'
 ---
 
-If you have any questions regarding our products, services, or if you possess valuable suggestions that could help us enhance your experience, please feel completely at ease to contact us. One of our dedicated representatives will res pond promptly to assist you.
+{{< about-text-container >}}
+If you have any questions regarding our products, services, or if you possess valuable suggestions that could help us enhance your experience,
+please feel completely at ease to contact us. One of our dedicated representatives will respond promptly to assist you.
+{{< /about-text-container >}}
+
 
 {{< form >}}
 

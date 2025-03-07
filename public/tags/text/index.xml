@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text on TurboTides</title>
-    <link>https://fanxgg.github.io/TurboTides/tags/text/</link>
+    <link>http://localhost:1313/TurboTides/tags/text/</link>
     <description>Recent content in Text on TurboTides</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://fanxgg.github.io/TurboTides/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/TurboTides/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Low-Temperature Water Systems Based on FloTides</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/20240925/</link>
+      <link>http://localhost:1313/TurboTides/blog/20240925/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/20240925/</guid>
+      <guid>http://localhost:1313/TurboTides/blog/20240925/</guid>
       <description>&lt;p&gt;FloTides (abbreviated as FT) is a software independently developed by Tai Ze Technology, focusing on the modeling, simulation, and optimization of complex thermo-fluid network systems. It is capable of performing steady-state and transient analyses of fluid flow, temperature, pressure, and composition, as well as simulating fluid-structure interaction and heat transfer phenomena. The software is applicable to various industries, including nuclear power, energy, chemical engineering, aviation, aerospace, shipping, and automotive. It aims to break through the technological blockade imposed by Western countries and provide strong support for high-end manufacturing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aerodynamic Design of Integral Gear Compressors Based on Turbotides</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/20240712/</link>
+      <link>http://localhost:1313/TurboTides/blog/20240712/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/20240712/</guid>
+      <guid>http://localhost:1313/TurboTides/blog/20240712/</guid>
       <description>&lt;p&gt;The field of industrial software is even more critical than chips in terms of constraints. To ensure China&amp;rsquo;s industrial security and the sustainable development of its industries, the development of industrial software has received significant attention, especially the autonomy and controllability of software in special fields, which have been elevated to a highly important status. Tai Ze Technology, as a company specializing in the design and development of CAE industrial software, has accumulated years of industrial knowledge. We continuously upgrade our products and keep launching new products that meet market demands in the field of industrial software design and development.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tai Ze 2024 Technology Exchange Series: GO ON!</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/20240628/</link>
+      <link>http://localhost:1313/TurboTides/blog/20240628/</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/20240628/</guid>
+      <guid>http://localhost:1313/TurboTides/blog/20240628/</guid>
       <description>&lt;p&gt;The field of industrial software is even more critical than chips in terms of constraints. To ensure China&amp;rsquo;s industrial security and the sustainable development of its industries, the development of industrial software has received significant attention, especially the autonomy and controllability of software in special fields, which have been elevated to a highly important status. Tai Ze Technology, as a company specializing in the design and development of CAE industrial software, has accumulated years of industrial knowledge. We continuously upgrade our products and keep launching new products that meet market demands in the field of industrial software design and development.&lt;/p&gt;</description>
     </item>
   </channel>

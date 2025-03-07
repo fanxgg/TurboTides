@@ -41,12 +41,12 @@ enableRobotsTXT = true
     material = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_description = "TurboTides - Professional CAE industrial software solution to assist enterprises in efficient simulation and optimization design"
     meta_og_title = "TurboTides"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_url = "https://fanxgg.github.io/TurboTides"
+    meta_og_image = "https://github.com/fanxgg/TurboTides/tree/main/img/tn.png"
+    meta_og_description = "TurboTides provides efficient CAE simulation and optimization software to help enterprises improve design efficiency"
 
 
 [menu]
@@ -59,19 +59,19 @@ enableRobotsTXT = true
 
   [[menu.main]]
     identifier = "blog"
-    name = "Blogs/Case Studies"
+    name = "Case Studies"
     url = "/blog/"
     weight = 2
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About Us"
     url = "/about/"
     weight = 3
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "Contact Us"
     url = "/contact/"
     weight = 4
 

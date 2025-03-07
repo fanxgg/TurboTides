@@ -1,0 +1,46 @@
+<style>
+      /* 图片整体背景 */ 
+    .full-width-bg {
+      width: 100vw;
+      position: relative;
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+      background-color: #f5f5f5;
+      padding-bottom: 30px;
+    }
+    
+    .image-container {
+      display: flex;
+      justify-content: center;
+      gap: 25px;
+      max-width: 1200px;
+      margin: 0 auto;
+      flex-wrap: wrap;
+      padding: 0 20px;
+    }
+    
+    .image-container img {
+      width: 22%;
+      height: auto;
+      object-fit: contain;
+      margin-bottom: 10px; /* 确保没有额外的 margin */
+    }
+    
+    @media (max-width: 768px) {
+      .image-container img {
+        width: 45%;
+        margin-bottom: 10px;
+      }
+    }
+</style>
+    
+    <div class="full-width-bg">
+      <div class="image-container">
+        <img src="{{ .Get 0 }}" alt="Image 1">
+        <img src="{{ .Get 1 }}" alt="Image 2">
+        <img src="{{ .Get 2 }}" alt="Image 3">
+        <img src="{{ .Get 3 }}" alt="Image 4">
+      </div>
+    </div> 

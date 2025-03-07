@@ -1,0 +1,42 @@
+{{ $type := .Get "type" | default "default" }}
+<div class="about-text-container">
+    {{ if eq $type "slogan" }}
+    <div class="slogan-full-width-bg">
+        <div class="slogan">{{ .Inner | markdownify }}</div>
+    </div>
+    {{ else }}
+        <p>{{ .Inner | markdownify }}</p>
+    {{ end }}
+</div>
+
+<style>
+    .slogan-full-width-bg {
+        width: 100vw;
+        position: relative;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        background-color: #9cb8d3;
+        padding: 50px 0; /* 增加 padding 让背景更大 */
+        margin-top: -50px;
+        margin-bottom: -50px;
+        z-index: -1;
+    }
+
+    body {
+        overflow-x: hidden; /* 隐藏横向滚动条 */
+    }
+
+    .slogan {
+        text-align: center; /* 文本居中 */
+        padding-top: 15px;
+        font-size: 24px; /* 字体大小 */
+        font-weight: bold; /* 加粗字体 */
+        font-family: "Arial", "Helvetica", sans-serif; /* 选择现代感强的无衬线字体 */
+        letter-spacing: 2px; /* 增加字间距，使标语更大气 */
+        line-height: 1.5; /* 提高可读性 */
+        color: white;
+        text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3); /* 文字阴影，使其更突出 */
+    }
+</style>

@@ -1,0 +1,9 @@
+{{ $file := .Get "file" }}
+{{ $content := readFile $file }}
+{{ if $content }}
+    <div class="custom-html-content">
+        {{ $content | safeHTML }}
+    </div>
+{{ else }}
+    <p>Unable to load content, the file may not exist.</p>
+{{ end }}

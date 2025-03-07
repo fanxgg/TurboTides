@@ -2,16 +2,22 @@
   {
     "title": "TurboMachinary and CAE Experts",
     "description": "TurboTides was developed by experts with decades of experience working in the turbomachinery and CAE industries.",
-    "icon": "icon-desktop_windows"
+    "icon": "icon-desktop_windows",
+    "background_color": "#d3f3ee",
+    "link": "/products/"  
   },
   {
     "title": "Intelligent Optimization for CAE",
     "description": "Our fourth-generation intelligent optimizer is engineered to drive superior performance through smart optimization.",
-    "icon": "icon-lightbulb_outline"
+    "icon": "icon-lightbulb_outline",
+    "background_color": "#9cb8d3",
+    "link": "/blog/"
   },
   {
     "title": "Passionate and Energetic Team",
     "description": "We believe in fostering a dynamic work environment that encourages creativity, collaboration, and continuous growth.",
-    "icon": "icon-person"
+    "icon": "icon-person",
+    "background_color": "#f0e68c",
+    "link": "/about/"
   }
 ]
