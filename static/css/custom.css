@@ -5,59 +5,6 @@
 
 
 
-/* Contact页面表单整体样式 */
-form {
-    max-width: 950px; /* 调整表单的最大宽度 */
-    margin: 1.2em auto;
-    display: flex;
-    flex-direction: column;
-    gap: 10px; /* 表单项之间的间距 */
-}
-
-/* 输入框和文本区域的样式 */
-.input {
-    display: flex;
-    flex-direction: column;
-    gap: 3px; /* 标签和输入框之间的间距 */
-}
-
-.input label {
-    font-size: 16px;
-    color: #1a1919; /* 浅灰色字体 */
-}
-
-.input input[type="text"],
-.input input[type="tel"],
-.input input[type="email"],
-.input textarea {
-    width: 100%; /* 输入框宽度 */
-    padding: 8px; /* 较小的内边距 */
-    border: 1px solid #ccc; /* 较细的边框 */
-    border-radius: 8px; /* 较小的圆角 */
-    box-sizing: border-box;
-    font-size: 16px;
-}
-
-.input textarea {
-    resize: none; /* 禁止调整大小 */
-}
-
-/* 按钮样式 */
-button {
-    width: 15%; /* 按钮宽度 */
-    padding: 10px;
-    background-color: #0a577a; /* 蓝色背景 */
-    color: white;
-    border: none;
-    border-radius: 10px; /* 较大的圆角 */
-    cursor: pointer;
-    font-size: 16px;
-}
-
-button:hover {
-    background-color: #357ab8; /* 悬停时的深蓝色背景 */
-}
-
 /* About and Contact页面文本内容样式*/
 .about-text-container {
     word-wrap: break-word; /* 允许长单词换行 */

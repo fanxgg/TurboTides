@@ -17,6 +17,10 @@ enableRobotsTXT = true
 # Disqus Comment System
 #disqusShortname = ""
 
+# Allow rendering of raw HTML in Markdown files
+[markup]
+  goldmark = { renderer = { unsafe = true } }
+
 [params]
 
   showBlog = true

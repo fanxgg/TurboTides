@@ -3,11 +3,38 @@
 <head>
     <title>TurboTides</title>
     <style>
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 0;
+            margin-bottom: 1rem; 
+        }
+
+        .download-button {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #4472c4;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+        }
+
+        .download-button:hover {
+            background-color: #365899;
+        }
+
+        .download-button i {
+            margin-right: 8px;
+        }
         .turbo-H1 {
             font-family: Arial, sans-serif;
             font-size: 2.5rem;
             line-height: 1;
-            margin-bottom: 2rem;
+            margin: 0;
             color: #4472c4;
             text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
         } 
@@ -88,7 +115,12 @@
     </style>
 </head>
 <body class="turbo-page">
-    <h1 class="turbo-H1">TurboTides</h1>
+    <div class="header-container">
+        <h1 class="turbo-H1">TurboTides</h1>
+        <a href="/docs/TurboTides.docx" class="download-button" download>
+            <i class="fa fa-download"></i>Download PDF
+        </a>
+    </div>
     <h2 class="turbo-H2">Turbomachinery Integrated Design System</h2>
     <p>TurboTides is a specialized tool tailored specifically for turbomachinery design, based on systems engineering principles, 
         offering turbomachinery industry users an integrated, intelligent, and customizable CAE design solution.
