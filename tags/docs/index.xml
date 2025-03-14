@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on TurboTides</title>
+    <link>https://fanxgg.github.io/TurboTides/tags/docs/</link>
+    <description>Recent content in Docs on TurboTides</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fanxgg.github.io/TurboTides/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>35kW Micro Gas Turbine</title>
+      <link>https://fanxgg.github.io/TurboTides/blog/20241206/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/blog/20241206/</guid>
+      <description>&lt;p&gt;With the promotion of new energy electric vehicles, their range issue has received widespread attention. There is a growing demand for a &lt;em&gt;&lt;strong&gt;micro gas turbine&lt;/strong&gt;&lt;/em&gt; as a power generation device to continuously supply electrical power for electric vehicles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generalized Design, Simulation, and Optimization System OpTides</title>
+      <link>https://fanxgg.github.io/TurboTides/blog/20240925-2/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/blog/20240925-2/</guid>
+      <description>&lt;p&gt;Anhui Jisuan Information Technology Co., Ltd. specializes in providing &lt;em&gt;&lt;strong&gt;fatigue fracture&lt;/strong&gt;&lt;/em&gt; simulation analysis software.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Low-Temperature Water Systems Based on FloTides</title>
+      <link>https://fanxgg.github.io/TurboTides/blog/20240925/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/blog/20240925/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;FloTides (abbreviated as FT)&lt;/strong&gt;&lt;/em&gt; is a software independently developed by Tai Ze Technology.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

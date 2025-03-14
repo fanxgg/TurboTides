@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on TurboTides</title>
+    <link>https://fanxgg.github.io/TurboTides/tags/markdown/</link>
+    <description>Recent content in Markdown on TurboTides</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fanxgg.github.io/TurboTides/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aerodynamic Design of Integral Gear Compressors Based on Turbotides</title>
+      <link>https://fanxgg.github.io/TurboTides/blog/20240712/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/blog/20240712/</guid>
+      <description>&lt;p&gt;The field of industrial software is even more critical than chips in &lt;em&gt;&lt;strong&gt;terms of constraints&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tai Ze 2024 Technology Exchange Series: GO ON!</title>
+      <link>https://fanxgg.github.io/TurboTides/blog/20240628/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/blog/20240628/</guid>
+      <description>&lt;p&gt;The field of industrial software is even more critical than chips in &lt;em&gt;&lt;strong&gt;terms of constraints&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
