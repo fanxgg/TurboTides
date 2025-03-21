@@ -5,8 +5,19 @@
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "Innovative Turbomachinery Design",
-    "image": "img/slide/slide02.jpg",
+    "title": "",
+    "description": "",
+    "image": "img/slide/slide02.jpg"
+  },
+  {
+    "title": "Turbomachinery Design",
+    "description": "Pioneering next-generation solutions for efficiency and sustainability",
+    "image": "img/slide/slide03.png",
     "color": "text-white"
+  },
+  {
+    "title": "",
+    "description": "",
+    "image": "img/slide/slide04.png"
   }
 ]

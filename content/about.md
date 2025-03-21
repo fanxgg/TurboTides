@@ -14,6 +14,6 @@ Our team is passionate and energetic, bringing together expertise and enthusiasm
 
 
 {{< about-image "/img/about/company1.jpg" >}}
-{{< about-four_image "/img/about/activity.JPG" "/img/about/activity2.JPG" "/img/about/activity3.JPG" "/img/about/activity4.JPG" >}}
+
 
 {{< about-text-container type="slogan" >}}UNITY, &nbsp;DILIGENCE, &nbsp;PRACTICALITY, &nbsp;INNOVATION{{< /about-text-container >}}
