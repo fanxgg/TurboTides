@@ -1,4 +1,12 @@
 <form name="contact" action="https://formsubmit.co/turbotides088@gmail.com" method="POST">
+    <!-- 添加成功页面重定向 -->
+    <input type="hidden" name="_next" value="/thank-you/">
+    <input type="hidden" name="_autoresponse" value="Thank you for contacting TurboTides. We will reply to your inquiry as soon as possible.">
+    <input type="hidden" name="_template" value="table">
+
+    <!-- 添加防机器人验证 -->
+    <input type="hidden" name="_captcha" value="true">
+
     <div class="input-row">
         <div class="input half-width">
             <label for="first-name">First Name</label>

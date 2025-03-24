@@ -6,34 +6,21 @@
       "doc_url": "/products/turbotides"
     },
     {
-      "title": "OpTides",
-      "description": "A comprehensive, unified platform for the integrated design of fluid and structural systems",
-      "icon": "lightbulb",
-      "doc_url": "/products/optides"
-    },
-    {
       "title": "FloTides",
       "description": "Advanced system simulation software tailored for fluid network design",
       "icon": "waves",
       "doc_url": "/products/flotides"
     },
     {
-        "title": "SeniorWorks",
-        "description": "Analysis software for structural fatigue, crack propagation and life prediction",
-        "icon": "engineering",
-        "doc_url": "/products/seniorworks"
+      "title": "OpTides",
+      "description": "A comprehensive, unified platform for the integrated design of fluid and structural systems",
+      "icon": "lightbulb",
+      "doc_url": "/products/optides"
     },
     {
-        "title": "OASIS",
+        "title": "OptiPro",
         "description": "The 4th generation intelligent optimizer, driving superior industrial design optimization",
         "icon": "hub",
-        "doc_url": "/products/oasis"
-    },
-    {
-        "title": "RomTides",
-        "description": "Software for data modeling, and model order reduction for time-sensitive applications",
-        "icon": "grid_on",
-        "doc_url": "/products/romtides"
-        
+        "doc_url": "/products/optipro"
     }
   ]

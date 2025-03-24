@@ -31,5 +31,8 @@
 
   <div class="about-image-bg">
     <!-- 添加公司的大图 -->
-    <img src="{{ .Get 0 }}" alt="Company Image" class="big-image">
+    <picture>
+      <source srcset="{{ .Get 0 | replaceRE "\\.jpg$|\\.png$" ".webp" }}" type="image/webp">
+      <img src="{{ .Get 0 }}" alt="Company Image" class="big-image">
+    </picture>
   </div> 
