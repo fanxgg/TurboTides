@@ -4,3 +4,5 @@ title = "Case Studies"
 author = "Taize Technology"
 tags = ["index"]
 +++
+
+{{< case-timeline >}}

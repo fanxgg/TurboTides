@@ -1,0 +1,239 @@
+<style>
+    .case-timeline {
+        position: relative;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 40px 0;
+        min-height: 680px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    .case-timeline::before {
+        content: '';
+        position: absolute;
+        height: 100%;
+        width: 4px;
+        background: linear-gradient(180deg, #3b82f6 0%, #4472c4 100%);
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 0;
+    }
+    
+    /* 为每个节点设置固定位置 */
+    .timeline-node:nth-child(1) {
+        top: 5%; /* 第一个节点位置 */
+    }
+
+    .timeline-node:nth-child(2) {
+        top: 30%; /* 第二个节点位置 */
+    }
+
+    .timeline-node:nth-child(3) {
+        top: 55%; /* 第三个节点位置 */
+    }
+
+    .timeline-node:nth-child(4) {
+        top: 80%; /* 第四个节点位置 */
+    }
+
+    .timeline-node {
+        position: relative;
+        margin: 0;
+        height: 140px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .timeline-node:nth-child(odd) .timeline-content {
+        left: 55%;
+        top: 0;
+    }
+    
+    .timeline-node:nth-child(even) .timeline-content {
+        right: 55%;
+        top: 0;
+    }
+    
+    .timeline-content {
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+        padding: 25px;
+        width: 40%;
+        position: absolute;
+        transition: transform 0.3s, box-shadow 0.3s;
+        z-index: 1;
+        min-height: 140px;
+    }
+    
+    .timeline-content:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    }
+    
+    .timeline-dot {
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        background: #4472c4;
+        border: 4px solid white;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+    }
+    
+    .timeline-title {
+        color: #333;
+        font-size: 1.5rem;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    
+    .timeline-count {
+        color: #777;
+        font-size: 1rem;
+        margin-bottom: 15px;
+    }
+    
+    .timeline-btn {
+        display: inline-block;
+        padding: 8px 16px;
+        background-color: #4472c4;
+        color: white;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: 500;
+        transition: background-color 0.3s;
+    }
+    
+    .timeline-btn:hover {
+        background-color: #365899;
+    }
+    
+    @media (max-width: 768px) {
+        .case-timeline {
+            min-height: 780px; /* 移动端更高 */
+            padding-left: 30px; /* 为左侧线条留出空间 */
+        }
+        .case-timeline::before {
+            left: 30px;
+        }
+        
+        .timeline-node {
+            justify-content: flex-start;
+            margin: 0;
+            min-height: 150px;
+        }
+
+        /* 调整移动端每个节点位置 */
+        .timeline-node:nth-child(1) { top: 5%; }
+        .timeline-node:nth-child(2) { top: 28%; }
+        .timeline-node:nth-child(3) { top: 51%; }
+        .timeline-node:nth-child(4) { top: 74%; }
+        
+        .timeline-node:nth-child(odd) .timeline-content,
+        .timeline-node:nth-child(even) .timeline-content {
+            left: 50px;
+            right: auto;
+            width: calc(100% - 80px);
+            position: relative; /* 改为相对定位 */
+            top: 0;
+        }
+        
+        .timeline-dot {
+            left: 0;
+        }
+    }
+    </style>
+    
+    <div class="case-timeline">
+        <div class="timeline-node">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+                <h3 class="timeline-title">TurboTides</h3>
+                {{ $turbotidesCases := where (where .Site.RegularPages "Section" "blog") "Params.categories" "intersect" (slice "TurboTides") }}
+                {{ $caseCount := len $turbotidesCases }}    
+                <p class="timeline-count">
+                    {{ $caseCount }} 
+                    {{ if eq $caseCount 1 }}case{{ else }}cases{{ end }}
+                </p>
+                
+                {{ if gt $caseCount 0 }}
+                    <!-- 如果有案例，显示"View Cases"按钮 -->
+                    <a class="timeline-btn" href="/categories/turbotides/">View Cases</a>
+                {{ else }}
+                    <!-- 如果没有案例，显示"Coming Soon"按钮 -->
+                    <a class="timeline-btn" href="/blog/coming-soon/">Coming Soon</a>
+                {{ end }}
+            </div>
+        </div>
+        
+        <div class="timeline-node">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+                <h3 class="timeline-title">FloTides</h3>
+                {{ $flotidesCases := where (where .Site.RegularPages "Section" "blog") "Params.categories" "intersect" (slice "FloTides") }}
+                {{ $caseCount := len $flotidesCases }}
+                <p class="timeline-count">
+                    {{ $caseCount }} 
+                    {{ if eq $caseCount 1 }}case{{ else }}cases{{ end }}
+                </p>
+                
+                {{ if gt $caseCount 0 }}
+                    <!-- 如果有案例，显示"View Cases"按钮 -->
+                    <a class="timeline-btn" href="/categories/flotides/">View Cases</a>
+                {{ else }}
+                    <!-- 如果没有案例，显示"Coming Soon"按钮 -->
+                    <a class="timeline-btn" href="/blog/coming-soon/">Coming Soon</a>
+                {{ end }}
+            </div>
+        </div>
+        
+        <div class="timeline-node">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+                <h3 class="timeline-title">OpTides</h3>
+                {{ $optidesCases := where (where .Site.RegularPages "Section" "blog") "Params.categories" "intersect" (slice "OpTides") }}
+                {{ $caseCount := len $optidesCases }}
+                <p class="timeline-count">
+                    {{ $caseCount }} 
+                    {{ if eq $caseCount 1 }}case{{ else }}cases{{ end }}
+                </p>
+                
+                {{ if gt $caseCount 0 }}
+                    <!-- 如果有案例，显示"View Cases"按钮 -->
+                    <a class="timeline-btn" href="/categories/optides/">View Cases</a>
+                {{ else }}
+                    <!-- 如果没有案例，显示"Coming Soon"按钮 -->
+                    <a class="timeline-btn" href="/blog/coming-soon/">Coming Soon</a>
+                {{ end }}
+            </div>
+        </div>
+        
+        <div class="timeline-node">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+                <h3 class="timeline-title">OASIS/OptiPro</h3>
+                {{ $optiproCases := where (where .Site.RegularPages "Section" "blog") "Params.categories" "intersect" (slice "OptiPro") }}
+                {{ $caseCount := len $optiproCases }}
+                <p class="timeline-count">
+                    {{ $caseCount }} 
+                    {{ if eq $caseCount 1 }}case{{ else }}cases{{ end }}
+                </p>
+                
+                {{ if gt $caseCount 0 }}
+                    <!-- 如果有案例，显示"View Cases"按钮 -->
+                    <a class="timeline-btn" href="/categories/optipro/">View Cases</a>
+                {{ else }}
+                    <!-- 如果没有案例，显示"Coming Soon"按钮 -->
+                    <a class="timeline-btn" href="/blog/coming-soon/">Coming Soon</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>

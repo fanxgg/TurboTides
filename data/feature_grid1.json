@@ -1,25 +1,25 @@
 [
     {
       "title": "TurboTides",
-      "description": " An integrated design platform for turbomachinery, covering turbines, pumps, compressors, and turbines",
+      "description": " An integrated design platform for turbomachinery, covering turbines, pumps, compressors, and fans",
       "icon": "computer",
       "doc_url": "/products/turbotides"
     },
     {
       "title": "FloTides",
-      "description": "Advanced system simulation software tailored for fluid network design",
+      "description": "Advanced simulation and optimization software for thermal-fluid network system design",
       "icon": "waves",
       "doc_url": "/products/flotides"
     },
     {
       "title": "OpTides",
-      "description": "A comprehensive, unified platform for the integrated design of fluid and structural systems",
+      "description": "A professional, unified platform for the integrated design of fluid and structural systems",
       "icon": "lightbulb",
       "doc_url": "/products/optides"
     },
     {
-        "title": "OptiPro",
-        "description": "The 4th generation intelligent optimizer, driving superior industrial design optimization",
+        "title": "OASIS/OptiPro",
+        "description": "Next-generation optimization software applying industry-leading techniques to your design process",
         "icon": "hub",
         "doc_url": "/products/optipro"
     }
