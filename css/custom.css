@@ -1,0 +1,156 @@
+/* 
+ This CSS file is used to override the existing styles of the theme.
+ You can change the article headings, fonts, colors, etc.
+*/
+
+
+
+/* About and Contact页面文本内容样式*/
+.about-text-container {
+    word-wrap: break-word; /* 允许长单词换行 */
+    white-space: normal; /* 默认行为，允许换行 */
+    hyphens: auto; /* 自动添加连字符 */
+}
+.about-text-container p {
+    display: block;
+    margin-top: 0; /* 重置上外边距 */
+    text-align: justify; /* 让文本两端对齐 */
+}
+
+
+/* Products内feature-grid1（四宫格）样式 */
+.features-grid1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3rem;
+    padding: 3rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.feature-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    text-decoration: none;
+    color: inherit;
+    min-height: 278px;  /* 设置最小高度 */
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+}
+
+.feature-content {
+    text-align: center;
+}
+
+.feature-content .material-icons {
+    font-size: 48px;
+    color: #0a577a;
+    margin-bottom: 1rem;
+    display: block;
+    transition: transform 0.3s ease;  /* 添加过渡效果 */
+}
+
+.feature-card:hover .material-icons {
+    transform: scale(1.1);  /* 悬停时图标放大 */
+}
+
+.feature-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.feature-card:hover .feature-title {
+    color: #1867cf;  /* 悬停时颜色变化 */
+}
+
+.feature-description {
+    font-size: 1.1rem;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+} 
+
+@media (max-width: 768px) {
+    .features-grid1 {
+        grid-template-columns: 1fr;  /* 在移动端改为单列 */
+        gap: 1.5rem;
+        padding: 1rem;
+    }
+    
+    .feature-card {
+        padding: 1.5rem;
+        min-height: 250px;
+    }
+}
+
+
+
+/* TurboTides产品介绍页面图片/视频媒体内容样式 */
+/* 基础布局 */
+.layout-side-by-side {
+    display: flex;
+    align-items: center; /* 让图片和文本块整体垂直居中 */
+    justify-content: flex-start; /* 确保内容从左侧开始对齐 */
+    gap: 2rem;
+    max-width: 1200px;  /* 减小最大宽度 */
+    margin: 0 auto;
+}
+
+.layout-side-by-side .media-container {
+    flex: 0 0 auto;
+    width: 35%; /* 让图片占40%宽度 */
+    display: flex;
+    align-items: center; /* 确保图片垂直居中 */
+}
+
+.layout-side-by-side .content-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* 确保文本块整体垂直居中 */
+    align-items: flex-start; /* 确保文本左对齐 */
+    height: 100%; /* 让其撑满父容器 */
+    padding: 1rem 0;
+}
+
+/* 媒体内容样式 */
+.media-container video {
+    width: 100%;
+    height: auto;
+    object-fit: contain;  /* 保持图片比例 */
+}
+
+.small-image {
+    width: 70%; 
+    height: auto;/* 设置为你想要的宽度 */
+}
+
+/* 轮播图背景渐变 */
+.s-fade-bg {
+    background: rgba(0, 0, 0, 0.5); /* 半透明黑色背景 */
+    width: 100vw; /* 让背景扩展整个屏幕宽度 */
+    min-height: 150px; /* 设置最小高度，防止过高 */
+    max-height: 40vh; /* 限制最大高度，不会太高 */
+    position: absolute;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* 让内容在垂直方向上居中 */
+    align-items: center; /* 让内容在水平方向上居中 */
+    text-align: center;
+    padding: 20px 0; /* 适当的上下间距 */
+}
+
+
+
+
