@@ -6,10 +6,6 @@
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  background-color: #d3f3ee;
-  padding: 50px 0 30px;
-  margin-top: 70px;
-  margin-bottom: -50px;
 }
 
 body {
@@ -23,19 +19,39 @@ body {
   font-size: 0.9em; /* 减小整体文本大小 */
 }
 
+.text-container h1 {
+  font-size: 3rem;
+  font-family: Montserrat, Noto Sans JP, sans-serif;
+  font-weight: inherit;
+  margin-bottom: 1rem;
+  color: #000000;
+  line-height: 1;
+}
+
+.text-container h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 2rem;
+  color: #000000;
+  line-height: 1;
+}
+
 .text-container h3 {
-  margin-top: 0;
+  margin-top: 20px;
   color: #333;
   font-size: 1.3em; /* 减小标题大小 */
 }
 
 .text-container ul {
-  padding-left: 20px;
+  padding-left: 1.5rem;
   list-style-type: disc;
+  margin-top: 0.75rem;
+  margin-bottom: 1rem;
 }
 
 .text-container li {
-  font-size: 0.95em; /* 单独设置列表项字体大小 */
+  font-size: 1em; /* 单独设置列表项字体大小 */
+  margin-bottom: 0.5rem; /* 列表项之间增加间距 */
+  line-height: 1.5;
 }
 
 /* 设置链接样式 */
@@ -48,10 +64,73 @@ body {
   text-decoration: underline;
   color: #004c99; /* 悬停时颜色稍深 */
 }
+
+
+/* 添加卡片布局 */
+.contact-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.contact-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  padding: 1.5rem;
+  min-width: 280px;
+  flex: 1;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.contact-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.12);
+}
+
+.card-title {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #eaeaea;
+  padding-bottom: 0.5rem;
+}
+
+.card-icon {
+  font-size: 2rem;
+  color: #0066cc;
+  margin-bottom: 1rem;
+  display: block;
+  text-align: center;
+}
+
+
 </style>
 
 <div class="text-full-width-bg">
   <div class="text-container">
-    {{ .Inner | markdownify }}
+    <div class="contact-cards">
+
+      <div class="contact-card">
+        <span class="card-icon">🔷</span>
+        <h2 class="card-title">Headquarters</h2>
+        <ul>
+          <li>Email: <a href="mailto:info@turbotides.com">info@turbotides.com</a></li>
+          <li>Business Hours: Monday-Friday, 9:00 AM - 6:00 PM (UTC+8)</a></li>
+        </ul>
+      </div>
+
+      <div class="contact-card">
+        <span class="card-icon">🌐</span>
+        <h2 class="card-title">Channel Partner</h2>
+        <h3>United States</h3>
+        <ul>
+          <li>Email: <a href="mailto:info@spinpous.com">info@spinpous.com</a></li>
+        </ul>
+      </div>
+
+    </div>
   </div>
 </div>

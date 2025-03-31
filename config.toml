@@ -1,6 +1,6 @@
 baseURL = "https://fanxgg.github.io/TurboTides"
 canonifyURLs = true
-title = "TurboTides"
+title = "TURBOTIDES"
 author = "Taize Technology"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -38,7 +38,7 @@ enableRobotsTXT = true
     size = "h-10"
 
   [params.site]
-    name = "TurboTides"
+    name = "TURBOTIDES"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -68,15 +68,15 @@ enableRobotsTXT = true
     url = "/blog/"
     weight = 2
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About Us"
-    url = "/about/"
-    weight = 3
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About Us"
+#    url = "/about/"
+#    weight = 3
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact Us"
+    name = "About Us"
     url = "/contact/"
     weight = 4
 
