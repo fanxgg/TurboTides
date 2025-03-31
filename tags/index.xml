@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TURBOTIDES</title>
+    <link>https://fanxgg.github.io/TurboTides/tags/</link>
+    <description>Recent content in Tags on TURBOTIDES</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fanxgg.github.io/TurboTides/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docs</title>
+      <link>https://fanxgg.github.io/TurboTides/tags/docs/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/tags/docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>https://fanxgg.github.io/TurboTides/tags/index/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TurboTides</title>
+      <link>https://fanxgg.github.io/TurboTides/tags/turbotides/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/tags/turbotides/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video</title>
+      <link>https://fanxgg.github.io/TurboTides/tags/video/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/tags/video/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Picture</title>
+      <link>https://fanxgg.github.io/TurboTides/tags/picture/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://fanxgg.github.io/TurboTides/tags/picture/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
