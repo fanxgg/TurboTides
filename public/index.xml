@@ -1,236 +1,766 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>TURBOTIDES</title>
-    <link>https://fanxgg.github.io/TurboTides/</link>
-    <description>Recent content on TURBOTIDES</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://fanxgg.github.io/TurboTides/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>35kW Micro Gas Turbine</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20250118/</link>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20250118/</guid>
-      <description>With the promotion of new energy electric vehicles, their range issue has received widespread attention. There is a growing demand for a micro gas turbine as a power generation device to continuously supply electrical power for electric vehicles. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Turbocharger Compressor Design</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20241224/</link>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20241224/</guid>
-      <description>For vehicle-mounted turbochargers, the centrifugal compressor design is optimized to ensure a wide operating margin while maintaining efficient performance. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Single-Stage Centrifugal Compressor</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20241025/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20241025/</guid>
-      <description>With the development of high-speed bearings and high-speed motor technologies, fuel cell air compressors, aeration blowers, and other similar devices have experienced rapid growth. There is a need to develop corresponding high-speed centrifugal compressor models with varying air flow and pressure rise requirements. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Two-Stage Refrigeration Compressor</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240901/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240901/</guid>
-      <description>With the adoption of new refrigerants and high-speed bearing technology, the design of high-speed, high-performance refrigeration compressors is customized. This includes the integration of imported adjustable guide vanes (IGV) to achieve efficient operation across multiple cooling capacity conditions. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Multi-Stage Centrifugal Compressor</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240819/</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240819/</guid>
-      <description>Focusing on energy storage and other related fields, the increasing demand for higher compression ratios cannot be met by single-stage centrifugal compressors. Therefore, a multi-stage centrifugal compressor design is required to achieve the desired performance. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>High-Speed Air Compressor Units</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240720/</link>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240720/</guid>
-      <description>Based on existing motor and bearing technologies, as well as downstream technical requirements, high-speed centrifugal compressor models with varying air flow and pressure rise are developed. Modular design is employed to achieve model-level development. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Helium Cryogenic Expansion Unit</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240710/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240710/</guid>
-      <description>Large-scale cryogenic helium refrigeration systems are increasingly gaining attention and are widely used in fusion, high-energy physics, and superconductivity. Major national scientific facilities are equipped with large helium cryogenic systems. The helium cryogenic turbine expander is the core component that needs to be tackled. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Pressure Recovery Radial Turbine Generator Set</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240613/</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240613/</guid>
-      <description>Traditional natural gas pipelines use pressure relief valves for pressure reduction, resulting in significant energy waste. Efficient utilization of pressure energy, converting it into electrical energy for energy recovery, can improve energy utilization efficiency. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>350kW-ORC System Development</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240526/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240526/</guid>
-      <description>Organic Rankine Cycle (ORC) power generation technology efficiently recovers industrial waste heat and resources such as solar photovoltaic energy, geothermal energy, and seawater temperature differences. The turbine, as the core component, is fundamental to the system&amp;rsquo;s efficient operation. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>High-Temperature Coke Oven Gas Waste Heat Power Generation Retrofit</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240517/</link>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240517/</guid>
-      <description>To further enhance the recovery of waste heat from high-temperature coke oven gas, aerodynamic blade shape modifications are required for the existing axial-flow units. This is to meet new environmental demands and improve energy efficiency indicators. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>High-Speed Cryogenic Liquid Hydrogen Pump</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240409/</link>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240409/</guid>
-      <description>Liquid hydrogen is prone to vaporization, and for pumps used in the hydrogen energy industry, compact size and excellent suction performance are required to ensure stable and reliable operation of the hydrogen pump. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Energy-Efficient Double-Suction Pump</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240320/</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240320/</guid>
-      <description>The new national standard GB-19762 enforces energy-saving requirements for centrifugal pumps used in industries such as construction. Due to cost and management factors, companies need to develop double-suction pumps with a wide energy-saving margin, compact size, and low maintenance costs. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Nuclear Power Shielding Pump</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240219/</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240219/</guid>
-      <description>Due to the high temperature and pressure operating conditions, nuclear power shielding pumps require extremely high reliability. The unreasonable design of the flow components has caused significant flow pulsations during operation, leading to vibration risks within the entire system and reducing the system&amp;rsquo;s reliability. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Aviation Fuel Pump</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20240124/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20240124/</guid>
-      <description>The aviation fuel pump is a core component of the aircraft fuel supply system, operating in harsh conditions. The main design requirements include shutoff head limitations and cavitation resistance at high altitudes. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Vertical Long Shaft Deep Well Pump</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20231216/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20231216/</guid>
-      <description>In the field of deep well water extraction, due to limitations in radial dimensions and installation conditions, deep well pumps require high performance and stability. At the same time, the pump must account for large flow fluctuations and the impact on intake conditions. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Medical Blood Pump</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20231127/</link>
-      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20231127/</guid>
-      <description>For ECMO (Extracorporeal Membrane Oxygenation) devices, the centrifugal blood pump is a core component. It requires low shear force, good hemolysis performance, excellent flow characteristics, simple structure, and ease of manufacturing. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Coke Oven Gas Fan Design</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20231019/</link>
-      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20231019/</guid>
-      <description>Coke oven gas ventilation fans are the most commonly used blowers in coke plants. They are specialized power equipment for transporting coke oven gas during the gas purification process. High-efficiency, simple-structured dual-flow fans offer a significant advantage in terms of manufacturing cost. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Dust Removal Fan Retrofit</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20230920/</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20230920/</guid>
-      <description>The existing ventilation fans suffer from low efficiency and poor performance under their rated power, with serious dust accumulation on the blades. The impeller was redesigned to address these issues. Under the rated power conditions, both flow and pressure were improved, achieving energy-saving effects. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Cooling Fan</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20230806/</link>
-      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20230806/</guid>
-      <description>The cooling fan was modified to reduce aerodynamic noise from the single-impeller fan while meeting the required airflow demands. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title>Centrifugal Fan</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/turbotides/20230714/</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/turbotides/20230714/</guid>
-      <description>Centrifugal fans have the advantages of small axial dimensions, high pressure coefficients, high efficiency, and compact structure, making them widely applicable in various fields. &lt;!--more--&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://fanxgg.github.io/TurboTides/products/flotides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/products/flotides/</guid>
-      <description>&lt;div class=&#34;custom-html-content&#34;&gt;&#xD;&#xA;        &lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;FloTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .flotides-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;flotides-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&lt;/div&gt;&#xD;&#xA;        &lt;h1 class=&#34;flotides-H1&#34;&gt;FloTides&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://fanxgg.github.io/TurboTides/products/optides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/products/optides/</guid>
-      <description>&lt;div class=&#34;custom-html-content&#34;&gt;&#xD;&#xA;        &lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;OpTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .optides-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;optides-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;optides-H1&#34;&gt;OptiTides&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://fanxgg.github.io/TurboTides/products/optipro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/products/optipro/</guid>
-      <description>&lt;div class=&#34;custom-html-content&#34;&gt;&#xD;&#xA;        &lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;OASIS/OptiPro&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .optiPro-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;optiPro-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&lt;/div&gt;&#xD;&#xA;        &lt;h1 class=&#34;optiPro-H1&#34;&gt;OASIS/OptiPro&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xD;&#xA;    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://fanxgg.github.io/TurboTides/products/products-flotides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/products/products-flotides/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;FloTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .flotides-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;flotides-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&lt;/div&gt;&#xD;&#xA;        &lt;h1 class=&#34;flotides-H1&#34;&gt;FloTides&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://fanxgg.github.io/TurboTides/products/products-optides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/products/products-optides/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;OpTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .optides-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;optides-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;optides-H1&#34;&gt;OptiTides&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://fanxgg.github.io/TurboTides/products/products-optipro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/products/products-optipro/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;OASIS/OptiPro&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .optiPro-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;optiPro-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&lt;/div&gt;&#xD;&#xA;        &lt;h1 class=&#34;optiPro-H1&#34;&gt;OASIS/OptiPro&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://fanxgg.github.io/TurboTides/products/products-turbotides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/products/products-turbotides/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;TurboTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button {&#xD;&#xA;            display: inline-block;&#xD;&#xA;            padding: 10px 15px;&#xD;&#xA;            background-color: #4472c4;&#xD;&#xA;            color: white;&#xD;&#xA;            text-decoration: none;&#xD;&#xA;            border-radius: 5px;&#xD;&#xA;            font-weight: bold;&#xD;&#xA;            transition: background-color 0.3s;&#xD;&#xA;            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button:hover {&#xD;&#xA;            background-color: #365899;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button i {&#xD;&#xA;            margin-right: 8px;&#xD;&#xA;        }&#xD;&#xA;        .turbo-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .turbo-H2 {&#xD;&#xA;            color: #353333; &#xD;&#xA;            font-size: 2rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 2rem 0;  &#xD;&#xA;            text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        }&#xD;&#xA;        .turbo-H3 {&#xD;&#xA;            color: #2c3e50; &#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        p {&#xD;&#xA;            word-wrap: break-word; /* 允许长单词换行 */&#xD;&#xA;            white-space: normal; /* 默认行为，允许换行 */&#xD;&#xA;            hyphens: auto; /* 自动添加连字符 */&#xD;&#xA;            text-align: justify; /* 让文本两端对齐 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        ul { &#xD;&#xA;            list-style-type: disc; &#xD;&#xA;            margin-left: 20px; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .turbo-image-container {&#xD;&#xA;            display: block;&#xD;&#xA;            width: 80%; /* 容器宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;            text-align: center;&#xD;&#xA;        }&#xD;&#xA;        .turbo-image-container img {&#xD;&#xA;            display: block; /* 让图片变成块级元素 */&#xD;&#xA;            margin: 0 auto; /* 让图片水平居中 */&#xD;&#xA;            max-width: 100%; /* 确保不会超出父容器 */&#xD;&#xA;            height: auto;&#xD;&#xA;        }&#xD;&#xA;        .responsive-img {&#xD;&#xA;            width: 100%; /* 图片宽度为容器的100% */&#xD;&#xA;            height: auto; /* 保持图片的纵横比 */&#xD;&#xA;            display: block; /* 让图片作为块级元素 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新的样式，只针对四张图片的容器 */&#xD;&#xA;        .turbo-images-row {&#xD;&#xA;            display: flex; /* 使用 flexbox 来水平排列图片 */&#xD;&#xA;            justify-content: space-between; /* 图片之间的间隔均等分配 */&#xD;&#xA;            width: 100%; /* 容器占满宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;        .turbo-images-row img {&#xD;&#xA;            width: 20%; /* 设置每张图片的宽度为容器的 22% */&#xD;&#xA;            height: auto; /* 确保图片比例不变 */&#xD;&#xA;            margin-top: 0; &#xD;&#xA;            margin-bottom: 0; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新增√符号的列表样式 */&#xD;&#xA;        .checklist {&#xD;&#xA;            list-style-type: none; /* 不使用默认的项目符号 */&#xD;&#xA;            padding-left: 0;&#xD;&#xA;        }&#xD;&#xA;        .checklist li {&#xD;&#xA;            display: flex; /* 确保符号和文字对齐 */&#xD;&#xA;        }&#xD;&#xA;        .checklist li::before {&#xD;&#xA;            content: &#39;✓&#39;;&#xD;&#xA;            color: rgb(76, 83, 85); /* 勾选符号的颜色 */&#xD;&#xA;            margin-right: 20px; /* 符号与文本之间的间距 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;turbo-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;turbo-H1&#34;&gt;TurboTides&lt;/h1&gt;&#xD;&#xA;        &lt;a href=&#34;https://fanxgg.github.io/TurboTides/docs/TurboTides.docx&#34; class=&#34;download-button&#34; download&gt;&#xD;&#xA;            &lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;Download PDF&#xD;&#xA;        &lt;/a&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &lt;h2 class=&#34;turbo-H2&#34;&gt;Turbomachinery Integrated Design System&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;TurboTides is a specialized tool tailored specifically for turbomachinery design, based on systems engineering principles, &#xD;&#xA;        offering turbomachinery industry users an integrated, intelligent, and customizable CAE design solution.&#xD;&#xA;    &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://fanxgg.github.io/TurboTides/products/turbotides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/products/turbotides/</guid>
-      <description>&lt;div class=&#34;custom-html-content&#34;&gt;&#xD;&#xA;        &lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;TurboTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button {&#xD;&#xA;            display: inline-block;&#xD;&#xA;            padding: 10px 15px;&#xD;&#xA;            background-color: #4472c4;&#xD;&#xA;            color: white;&#xD;&#xA;            text-decoration: none;&#xD;&#xA;            border-radius: 5px;&#xD;&#xA;            font-weight: bold;&#xD;&#xA;            transition: background-color 0.3s;&#xD;&#xA;            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button:hover {&#xD;&#xA;            background-color: #365899;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button i {&#xD;&#xA;            margin-right: 8px;&#xD;&#xA;        }&#xD;&#xA;        .turbo-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .turbo-H2 {&#xD;&#xA;            color: #353333; &#xD;&#xA;            font-size: 2rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 2rem 0;  &#xD;&#xA;            text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        }&#xD;&#xA;        .turbo-H3 {&#xD;&#xA;            color: #2c3e50; &#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        p {&#xD;&#xA;            word-wrap: break-word; /* 允许长单词换行 */&#xD;&#xA;            white-space: normal; /* 默认行为，允许换行 */&#xD;&#xA;            hyphens: auto; /* 自动添加连字符 */&#xD;&#xA;            text-align: justify; /* 让文本两端对齐 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        ul { &#xD;&#xA;            list-style-type: disc; &#xD;&#xA;            margin-left: 20px; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .turbo-image-container {&#xD;&#xA;            display: block;&#xD;&#xA;            width: 80%; /* 容器宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;            text-align: center;&#xD;&#xA;        }&#xD;&#xA;        .turbo-image-container img {&#xD;&#xA;            display: block; /* 让图片变成块级元素 */&#xD;&#xA;            margin: 0 auto; /* 让图片水平居中 */&#xD;&#xA;            max-width: 100%; /* 确保不会超出父容器 */&#xD;&#xA;            height: auto;&#xD;&#xA;        }&#xD;&#xA;        .responsive-img {&#xD;&#xA;            width: 100%; /* 图片宽度为容器的100% */&#xD;&#xA;            height: auto; /* 保持图片的纵横比 */&#xD;&#xA;            display: block; /* 让图片作为块级元素 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新的样式，只针对四张图片的容器 */&#xD;&#xA;        .turbo-images-row {&#xD;&#xA;            display: flex; /* 使用 flexbox 来水平排列图片 */&#xD;&#xA;            justify-content: space-between; /* 图片之间的间隔均等分配 */&#xD;&#xA;            width: 100%; /* 容器占满宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;        .turbo-images-row img {&#xD;&#xA;            width: 20%; /* 设置每张图片的宽度为容器的 22% */&#xD;&#xA;            height: auto; /* 确保图片比例不变 */&#xD;&#xA;            margin-top: 0; &#xD;&#xA;            margin-bottom: 0; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新增√符号的列表样式 */&#xD;&#xA;        .checklist {&#xD;&#xA;            list-style-type: none; /* 不使用默认的项目符号 */&#xD;&#xA;            padding-left: 0;&#xD;&#xA;        }&#xD;&#xA;        .checklist li {&#xD;&#xA;            display: flex; /* 确保符号和文字对齐 */&#xD;&#xA;        }&#xD;&#xA;        .checklist li::before {&#xD;&#xA;            content: &#39;✓&#39;;&#xD;&#xA;            color: rgb(76, 83, 85); /* 勾选符号的颜色 */&#xD;&#xA;            margin-right: 20px; /* 符号与文本之间的间距 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;turbo-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;turbo-H1&#34;&gt;TurboTides&lt;/h1&gt;&#xD;&#xA;        &lt;a href=&#34;https://fanxgg.github.io/TurboTides/docs/TurboTides.docx&#34; class=&#34;download-button&#34; download&gt;&#xD;&#xA;            &lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;Download PDF&#xD;&#xA;        &lt;/a&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &lt;h2 class=&#34;turbo-H2&#34;&gt;Turbomachinery Integrated Design System&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;TurboTides is a specialized tool tailored specifically for turbomachinery design, based on systems engineering principles, &#xD;&#xA;        offering turbomachinery industry users an integrated, intelligent, and customizable CAE design solution.&#xD;&#xA;    &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Us</title>
-      <link>https://fanxgg.github.io/TurboTides/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/about/</guid>
-      <description>&lt;div class=&#34;about-text-container&#34;&gt;&#xD;&#xA;    &#xD;&#xA;        &lt;p&gt;&lt;p&gt;We provide sales and marketing as well as technical support to TurboTides software, a next generation integrated turbomachinery design system. Through working together with partners, we have the expertise to offer design services that will take your project from an innovative idea into a tested machine.&lt;/p&gt;&#xA;&lt;p&gt;Our team is passionate and energetic, bringing together expertise and enthusiasm to drive innovation in turbomachinery design. We believe in fostering a dynamic work environment that encourages creativity, collaboration, and continuous growth.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Us</title>
-      <link>https://fanxgg.github.io/TurboTides/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/contact/</guid>
-      <description>&lt;div class=&#34;about-text-container&#34;&gt;&#xD;&#xA;    &#xD;&#xA;        &lt;p&gt;We provide sales and marketing as well as technical support to TurboTides, FloTides, OpTides, OASIS/OptiPro software. Through working together with partners, we have the expertise to offer design services that will take your project from an innovative idea into a tested machine.&lt;/p&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    .slogan-full-width-bg {&#xD;&#xA;        width: 100vw;&#xD;&#xA;        position: relative;&#xD;&#xA;        left: 50%;&#xD;&#xA;        right: 50%;&#xD;&#xA;        margin-left: -50vw;&#xD;&#xA;        margin-right: -50vw;&#xD;&#xA;        background-color: #9cb8d3;&#xD;&#xA;        padding: 32px 0;  &#xD;&#xA;        margin-top: 50px;&#xD;&#xA;        margin-bottom: -50px;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    body {&#xD;&#xA;        overflow-x: hidden;  &#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .slogan {&#xD;&#xA;        text-align: center;  &#xD;&#xA;        align-items: center;  &#xD;&#xA;        font-size: 24px;  &#xD;&#xA;        font-weight: bold;  &#xD;&#xA;        font-family: &#34;Arial&#34;, &#34;Helvetica&#34;, sans-serif;  &#xD;&#xA;        letter-spacing: 2px;  &#xD;&#xA;        line-height: 1.5;  &#xD;&#xA;        color: white;&#xD;&#xA;        text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);  &#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xA;&lt;style&gt;&#xD;&#xA;    &#xD;&#xA;  .about-image-bg {&#xD;&#xA;    width: 100vw;&#xD;&#xA;    position: relative;&#xD;&#xA;    left: 50%;&#xD;&#xA;    right: 50%;&#xD;&#xA;    margin-left: -50vw;&#xD;&#xA;    margin-right: -50vw;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;  .big-image {&#xD;&#xA;    display: block;&#xD;&#xA;    margin: 0 auto 0;  &#xD;&#xA;    width: 100%;  &#xD;&#xA;    height: auto;  &#xD;&#xA;    max-width: 1096px;  &#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  @media (max-width: 768px) {&#xD;&#xA;    .big-image {&#xD;&#xA;      width:87%; &#xD;&#xA;      margin: 0 auto;&#xD;&#xA;    }&#xD;&#xA;  }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;about-image-bg&#34;&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;picture&gt;&#xD;&#xA;      &lt;source srcset=&#34;https://fanxgg.github.io/TurboTides/img/about/company.webp&#34; type=&#34;image/webp&#34;&gt;&#xD;&#xA;      &lt;img src=&#34;https://fanxgg.github.io/TurboTides/img/about/company.jpg&#34; alt=&#34;Company Image&#34; class=&#34;big-image&#34;&gt;&#xD;&#xA;    &lt;/picture&gt;&#xD;&#xA;  &lt;/div&gt; &#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;contact-us&#34;&gt;Contact Us&lt;/h2&gt;&#xA;&lt;style&gt;&#xD;&#xA;.text-full-width-bg {&#xD;&#xA;  width: 100vw;&#xD;&#xA;  position: relative;&#xD;&#xA;  left: 50%;&#xD;&#xA;  right: 50%;&#xD;&#xA;  margin-left: -50vw;&#xD;&#xA;  margin-right: -50vw;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;body {&#xD;&#xA;  overflow-x: hidden;  &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.text-container {&#xD;&#xA;  max-width: 1200px;&#xD;&#xA;  margin: 0 auto;&#xD;&#xA;  padding: 0 45px;&#xD;&#xA;  font-size: 0.9em;  &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.text-container h1 {&#xD;&#xA;  font-size: 3rem;&#xD;&#xA;  font-family: Montserrat, Noto Sans JP, sans-serif;&#xD;&#xA;  font-weight: inherit;&#xD;&#xA;  margin-bottom: 1rem;&#xD;&#xA;  color: #000000;&#xD;&#xA;  line-height: 1;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.text-container h2 {&#xD;&#xA;  margin-top: 2.5rem;&#xD;&#xA;  margin-bottom: 2rem;&#xD;&#xA;  color: #000000;&#xD;&#xA;  line-height: 1;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.text-container h3 {&#xD;&#xA;  margin-top: 20px;&#xD;&#xA;  color: #333;&#xD;&#xA;  font-size: 1.3em;  &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.text-container ul {&#xD;&#xA;  padding-left: 1.5rem;&#xD;&#xA;  list-style-type: disc;&#xD;&#xA;  margin-top: 0.75rem;&#xD;&#xA;  margin-bottom: 1rem;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.text-container li {&#xD;&#xA;  font-size: 1em;  &#xD;&#xA;  margin-bottom: 0.5rem;  &#xD;&#xA;  line-height: 1.5;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;.text-container a {&#xD;&#xA;  color: #0066cc;&#xD;&#xA;  text-decoration: underline;  &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.text-container a:hover {&#xD;&#xA;  text-decoration: underline;&#xD;&#xA;  color: #004c99;  &#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;.contact-cards {&#xD;&#xA;  display: flex;&#xD;&#xA;  flex-wrap: wrap;&#xD;&#xA;  justify-content: center;&#xD;&#xA;  gap: 2rem;&#xD;&#xA;  margin: 2rem 0;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.contact-card {&#xD;&#xA;  background: white;&#xD;&#xA;  border-radius: 8px;&#xD;&#xA;  box-shadow: 0 4px 12px rgba(0,0,0,0.08);&#xD;&#xA;  padding: 1.5rem;&#xD;&#xA;  min-width: 280px;&#xD;&#xA;  flex: 1;&#xD;&#xA;  transition: transform 0.3s, box-shadow 0.3s;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.contact-card:hover {&#xD;&#xA;  transform: translateY(-5px);&#xD;&#xA;  box-shadow: 0 8px 16px rgba(0,0,0,0.12);&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card-title {&#xD;&#xA;  font-size: 1.5rem;&#xD;&#xA;  color: #333;&#xD;&#xA;  margin-bottom: 1rem;&#xD;&#xA;  border-bottom: 2px solid #eaeaea;&#xD;&#xA;  padding-bottom: 0.5rem;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;.card-icon {&#xD;&#xA;  font-size: 2rem;&#xD;&#xA;  color: #0066cc;&#xD;&#xA;  margin-bottom: 1rem;&#xD;&#xA;  display: block;&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;text-full-width-bg&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;text-container&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;contact-cards&#34;&gt;&#xD;&#xA;&#xD;&#xA;      &lt;div class=&#34;contact-card&#34;&gt;&#xD;&#xA;        &lt;span class=&#34;card-icon&#34;&gt;🔷&lt;/span&gt;&#xD;&#xA;        &lt;h2 class=&#34;card-title&#34;&gt;Headquarters&lt;/h2&gt;&#xD;&#xA;        &lt;ul&gt;&#xD;&#xA;          &lt;li&gt;Email: &lt;a href=&#34;mailto:info@turbotides.com&#34;&gt;info@turbotides.com&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;          &lt;li&gt;Business Hours: Monday-Friday, 9:00 AM - 6:00 PM (UTC+8)&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;      &lt;div class=&#34;contact-card&#34;&gt;&#xD;&#xA;        &lt;span class=&#34;card-icon&#34;&gt;🌐&lt;/span&gt;&#xD;&#xA;        &lt;h2 class=&#34;card-title&#34;&gt;Channel Partner&lt;/h2&gt;&#xD;&#xA;        &lt;h3&gt;United States&lt;/h3&gt;&#xD;&#xA;        &lt;ul&gt;&#xD;&#xA;          &lt;li&gt;Email: &lt;a href=&#34;mailto:info@spinpous.com&#34;&gt;info@spinpous.com&lt;/a&gt;&lt;/li&gt;&#xD;&#xA;        &lt;/ul&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;inquiry&#34;&gt;Inquiry&lt;/h2&gt;&#xA;&#xD;&#xA;&lt;div class=&#34;about-text-container&#34;&gt;&#xD;&#xA;    &#xD;&#xA;        &lt;p&gt;If you have any questions regarding our products, services, or if you possess valuable suggestions that could help us enhance your experience,&#xA;please feel completely at ease to contact us. One of our dedicated representatives will respond promptly to assist you.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Coming Soon</title>
-      <link>https://fanxgg.github.io/TurboTides/blog/coming-soon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/blog/coming-soon/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;re actively developing new case studies for this product. Please check back later!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Thank You</title>
-      <link>https://fanxgg.github.io/TurboTides/thank-you/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fanxgg.github.io/TurboTides/thank-you/</guid>
-      <description>&lt;div class=&#34;about-text-container&#34;&gt;&#xD;&#xA;    &#xD;&#xA;        &lt;p&gt;&lt;h2 id=&#34;thank-you-for-your-message&#34;&gt;Thank you for your message&lt;/h2&gt;&#xA;&lt;p&gt;We have received your message and will contact you as soon as possible.&lt;/p&gt;&lt;/p&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;    .slogan-full-width-bg {&#xD;&#xA;        width: 100vw;&#xD;&#xA;        position: relative;&#xD;&#xA;        left: 50%;&#xD;&#xA;        right: 50%;&#xD;&#xA;        margin-left: -50vw;&#xD;&#xA;        margin-right: -50vw;&#xD;&#xA;        background-color: #9cb8d3;&#xD;&#xA;        padding: 32px 0;  &#xD;&#xA;        margin-top: 50px;&#xD;&#xA;        margin-bottom: -50px;&#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    body {&#xD;&#xA;        overflow-x: hidden;  &#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .slogan {&#xD;&#xA;        text-align: center;  &#xD;&#xA;        align-items: center;  &#xD;&#xA;        font-size: 24px;  &#xD;&#xA;        font-weight: bold;  &#xD;&#xA;        font-family: &#34;Arial&#34;, &#34;Helvetica&#34;, sans-serif;  &#xD;&#xA;        letter-spacing: 2px;  &#xD;&#xA;        line-height: 1.5;  &#xD;&#xA;        color: white;&#xD;&#xA;        text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);  &#xD;&#xA;    }&#xD;&#xA;&lt;/style&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TURBOTIDES</title><link>https://www.turbotides.com/</link><description>Recent content on TURBOTIDES</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.turbotides.com/index.xml" rel="self" type="application/rss+xml"/><item><title>35kW Micro Gas Turbine</title><link>https://www.turbotides.com/blog/turbotides/20250118/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20250118/</guid><description>With the promotion of new energy electric vehicles, their range issue has received widespread attention. There is a growing demand for a micro gas turbine as a power generation device to continuously supply electrical power for electric vehicles. &lt;!--more--></description></item><item><title>Turbocharger Compressor Design</title><link>https://www.turbotides.com/blog/turbotides/20241224/</link><pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20241224/</guid><description>For vehicle-mounted turbochargers, the centrifugal compressor design is optimized to ensure a wide operating margin while maintaining efficient performance. &lt;!--more--></description></item><item><title>Single-Stage Centrifugal Compressor</title><link>https://www.turbotides.com/blog/turbotides/20241025/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20241025/</guid><description>With the development of high-speed bearings and high-speed motor technologies, fuel cell air compressors, aeration blowers, and other similar devices have experienced rapid growth. There is a need to develop corresponding high-speed centrifugal compressor models with varying air flow and pressure rise requirements. &lt;!--more--></description></item><item><title>Two-Stage Refrigeration Compressor</title><link>https://www.turbotides.com/blog/turbotides/20240901/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240901/</guid><description>With the adoption of new refrigerants and high-speed bearing technology, the design of high-speed, high-performance refrigeration compressors is customized. This includes the integration of imported adjustable guide vanes (IGV) to achieve efficient operation across multiple cooling capacity conditions. &lt;!--more--></description></item><item><title>Multi-Stage Centrifugal Compressor</title><link>https://www.turbotides.com/blog/turbotides/20240819/</link><pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240819/</guid><description>Focusing on energy storage and other related fields, the increasing demand for higher compression ratios cannot be met by single-stage centrifugal compressors. Therefore, a multi-stage centrifugal compressor design is required to achieve the desired performance. &lt;!--more--></description></item><item><title>High-Speed Air Compressor Units</title><link>https://www.turbotides.com/blog/turbotides/20240720/</link><pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240720/</guid><description>Based on existing motor and bearing technologies, as well as downstream technical requirements, high-speed centrifugal compressor models with varying air flow and pressure rise are developed. Modular design is employed to achieve model-level development. &lt;!--more--></description></item><item><title>Helium Cryogenic Expansion Unit</title><link>https://www.turbotides.com/blog/turbotides/20240710/</link><pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240710/</guid><description>Large-scale cryogenic helium refrigeration systems are increasingly gaining attention and are widely used in fusion, high-energy physics, and superconductivity. Major national scientific facilities are equipped with large helium cryogenic systems. The helium cryogenic turbine expander is the core component that needs to be tackled. &lt;!--more--></description></item><item><title>Pressure Recovery Radial Turbine Generator Set</title><link>https://www.turbotides.com/blog/turbotides/20240613/</link><pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240613/</guid><description>Traditional natural gas pipelines use pressure relief valves for pressure reduction, resulting in significant energy waste. Efficient utilization of pressure energy, converting it into electrical energy for energy recovery, can improve energy utilization efficiency. &lt;!--more--></description></item><item><title>350kW-ORC System Development</title><link>https://www.turbotides.com/blog/turbotides/20240526/</link><pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240526/</guid><description>Organic Rankine Cycle (ORC) power generation technology efficiently recovers industrial waste heat and resources such as solar photovoltaic energy, geothermal energy, and seawater temperature differences. The turbine, as the core component, is fundamental to the system&amp;rsquo;s efficient operation. &lt;!--more--></description></item><item><title>High-Temperature Coke Oven Gas Waste Heat Power Generation Retrofit</title><link>https://www.turbotides.com/blog/turbotides/20240517/</link><pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240517/</guid><description>To further enhance the recovery of waste heat from high-temperature coke oven gas, aerodynamic blade shape modifications are required for the existing axial-flow units. This is to meet new environmental demands and improve energy efficiency indicators. &lt;!--more--></description></item><item><title>High-Speed Cryogenic Liquid Hydrogen Pump</title><link>https://www.turbotides.com/blog/turbotides/20240409/</link><pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240409/</guid><description>Liquid hydrogen is prone to vaporization, and for pumps used in the hydrogen energy industry, compact size and excellent suction performance are required to ensure stable and reliable operation of the hydrogen pump. &lt;!--more--></description></item><item><title>Energy-Efficient Double-Suction Pump</title><link>https://www.turbotides.com/blog/turbotides/20240320/</link><pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240320/</guid><description>The new national standard GB-19762 enforces energy-saving requirements for centrifugal pumps used in industries such as construction. Due to cost and management factors, companies need to develop double-suction pumps with a wide energy-saving margin, compact size, and low maintenance costs. &lt;!--more--></description></item><item><title>Nuclear Power Shielding Pump</title><link>https://www.turbotides.com/blog/turbotides/20240219/</link><pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240219/</guid><description>Due to the high temperature and pressure operating conditions, nuclear power shielding pumps require extremely high reliability. The unreasonable design of the flow components has caused significant flow pulsations during operation, leading to vibration risks within the entire system and reducing the system&amp;rsquo;s reliability. &lt;!--more--></description></item><item><title>Aviation Fuel Pump</title><link>https://www.turbotides.com/blog/turbotides/20240124/</link><pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20240124/</guid><description>The aviation fuel pump is a core component of the aircraft fuel supply system, operating in harsh conditions. The main design requirements include shutoff head limitations and cavitation resistance at high altitudes. &lt;!--more--></description></item><item><title>Vertical Long Shaft Deep Well Pump</title><link>https://www.turbotides.com/blog/turbotides/20231216/</link><pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20231216/</guid><description>In the field of deep well water extraction, due to limitations in radial dimensions and installation conditions, deep well pumps require high performance and stability. At the same time, the pump must account for large flow fluctuations and the impact on intake conditions. &lt;!--more--></description></item><item><title>Medical Blood Pump</title><link>https://www.turbotides.com/blog/turbotides/20231127/</link><pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20231127/</guid><description>For ECMO (Extracorporeal Membrane Oxygenation) devices, the centrifugal blood pump is a core component. It requires low shear force, good hemolysis performance, excellent flow characteristics, simple structure, and ease of manufacturing. &lt;!--more--></description></item><item><title>Coke Oven Gas Fan Design</title><link>https://www.turbotides.com/blog/turbotides/20231019/</link><pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20231019/</guid><description>Coke oven gas ventilation fans are the most commonly used blowers in coke plants. They are specialized power equipment for transporting coke oven gas during the gas purification process. High-efficiency, simple-structured dual-flow fans offer a significant advantage in terms of manufacturing cost. &lt;!--more--></description></item><item><title>Dust Removal Fan Retrofit</title><link>https://www.turbotides.com/blog/turbotides/20230920/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20230920/</guid><description>The existing ventilation fans suffer from low efficiency and poor performance under their rated power, with serious dust accumulation on the blades. The impeller was redesigned to address these issues. Under the rated power conditions, both flow and pressure were improved, achieving energy-saving effects. &lt;!--more--></description></item><item><title>Cooling Fan</title><link>https://www.turbotides.com/blog/turbotides/20230806/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20230806/</guid><description>The cooling fan was modified to reduce aerodynamic noise from the single-impeller fan while meeting the required airflow demands. &lt;!--more--></description></item><item><title>Centrifugal Fan</title><link>https://www.turbotides.com/blog/turbotides/20230714/</link><pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/turbotides/20230714/</guid><description>Centrifugal fans have the advantages of small axial dimensions, high pressure coefficients, high efficiency, and compact structure, making them widely applicable in various fields. &lt;!--more--></description></item><item><title/><link>https://www.turbotides.com/products/flotides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/flotides/</guid><description>&lt;div class="custom-html-content">
+ &lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>FloTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .flotides-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="flotides-page">
+ &lt;div class="header-container">&lt;/div>
+ &lt;h1 class="flotides-H1">FloTides&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html>
+ &lt;/div></description></item><item><title/><link>https://www.turbotides.com/products/optides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/optides/</guid><description>&lt;div class="custom-html-content">
+ &lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>OpTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .optides-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="optides-page">
+ &lt;div class="header-container">
+ &lt;h1 class="optides-H1">OptiTides&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html>
+ &lt;/div></description></item><item><title/><link>https://www.turbotides.com/products/optipro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/optipro/</guid><description>&lt;div class="custom-html-content">
+ &lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>OASIS/OptiPro&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .optiPro-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="optiPro-page">
+ &lt;div class="header-container">&lt;/div>
+ &lt;h1 class="optiPro-H1">OASIS/OptiPro&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html>
+ &lt;/div></description></item><item><title/><link>https://www.turbotides.com/products/products-flotides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/products-flotides/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>FloTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .flotides-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="flotides-page">
+ &lt;div class="header-container">&lt;/div>
+ &lt;h1 class="flotides-H1">FloTides&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html></description></item><item><title/><link>https://www.turbotides.com/products/products-optides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/products-optides/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>OpTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .optides-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="optides-page">
+ &lt;div class="header-container">
+ &lt;h1 class="optides-H1">OptiTides&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html></description></item><item><title/><link>https://www.turbotides.com/products/products-optipro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/products-optipro/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>OASIS/OptiPro&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .optiPro-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="optiPro-page">
+ &lt;div class="header-container">&lt;/div>
+ &lt;h1 class="optiPro-H1">OASIS/OptiPro&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html></description></item><item><title/><link>https://www.turbotides.com/products/products-turbotides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/products-turbotides/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>TurboTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+
+ .download-button {
+ display: inline-block;
+ padding: 10px 15px;
+ background-color: #4472c4;
+ color: white;
+ text-decoration: none;
+ border-radius: 5px;
+ font-weight: bold;
+ transition: background-color 0.3s;
+ box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+ }
+
+ .download-button:hover {
+ background-color: #365899;
+ }
+
+ .download-button i {
+ margin-right: 8px;
+ }
+ .turbo-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .turbo-H2 {
+ color: #353333; 
+ font-size: 2rem;
+ line-height: 1;
+ margin: 2rem 0; 
+ text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); 
+ }
+ .turbo-H3 {
+ color: #2c3e50; 
+ font-size: 1.5rem;
+ }
+
+ p {
+ word-wrap: break-word; /* 允许长单词换行 */
+ white-space: normal; /* 默认行为，允许换行 */
+ hyphens: auto; /* 自动添加连字符 */
+ text-align: justify; /* 让文本两端对齐 */
+ }
+
+ ul { 
+ list-style-type: disc; 
+ margin-left: 20px; 
+ }
+
+ .turbo-image-container {
+ display: block;
+ width: 80%; /* 容器宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ text-align: center;
+ }
+ .turbo-image-container img {
+ display: block; /* 让图片变成块级元素 */
+ margin: 0 auto; /* 让图片水平居中 */
+ max-width: 100%; /* 确保不会超出父容器 */
+ height: auto;
+ }
+ .responsive-img {
+ width: 100%; /* 图片宽度为容器的100% */
+ height: auto; /* 保持图片的纵横比 */
+ display: block; /* 让图片作为块级元素 */
+ margin: 0 auto; /* 居中 */
+ }
+
+ /* 新的样式，只针对四张图片的容器 */
+ .turbo-images-row {
+ display: flex; /* 使用 flexbox 来水平排列图片 */
+ justify-content: space-between; /* 图片之间的间隔均等分配 */
+ width: 100%; /* 容器占满宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ }
+ .turbo-images-row img {
+ width: 20%; /* 设置每张图片的宽度为容器的 22% */
+ height: auto; /* 确保图片比例不变 */
+ margin-top: 0; 
+ margin-bottom: 0; 
+ }
+
+ /* 新增√符号的列表样式 */
+ .checklist {
+ list-style-type: none; /* 不使用默认的项目符号 */
+ padding-left: 0;
+ }
+ .checklist li {
+ display: flex; /* 确保符号和文字对齐 */
+ }
+ .checklist li::before {
+ content: '✓';
+ color: rgb(76, 83, 85); /* 勾选符号的颜色 */
+ margin-right: 20px; /* 符号与文本之间的间距 */
+ }
+
+ .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }
+ &lt;/style>
+&lt;/head>
+&lt;body class="turbo-page">
+ &lt;div class="header-container">
+ &lt;h1 class="turbo-H1">TurboTides&lt;/h1>
+ &lt;a href="https://www.turbotides.com/docs/TurboTides.docx" class="download-button" download>
+ &lt;i class="fa fa-download">&lt;/i>Download PDF
+ &lt;/a>
+ &lt;/div>
+
+ 
+ &lt;h2 class="turbo-H2">Turbomachinery Integrated Design System&lt;/h2>
+ &lt;p>TurboTides is a specialized tool tailored specifically for turbomachinery design, based on systems engineering principles, 
+ offering turbomachinery industry users an integrated, intelligent, and customizable CAE design solution.
+ &lt;/p></description></item><item><title/><link>https://www.turbotides.com/products/turbotides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/turbotides/</guid><description>&lt;div class="custom-html-content">
+ &lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>TurboTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+
+ .download-button {
+ display: inline-block;
+ padding: 10px 15px;
+ background-color: #4472c4;
+ color: white;
+ text-decoration: none;
+ border-radius: 5px;
+ font-weight: bold;
+ transition: background-color 0.3s;
+ box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+ }
+
+ .download-button:hover {
+ background-color: #365899;
+ }
+
+ .download-button i {
+ margin-right: 8px;
+ }
+ .turbo-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .turbo-H2 {
+ color: #353333; 
+ font-size: 2rem;
+ line-height: 1;
+ margin: 2rem 0; 
+ text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); 
+ }
+ .turbo-H3 {
+ color: #2c3e50; 
+ font-size: 1.5rem;
+ }
+
+ p {
+ word-wrap: break-word; /* 允许长单词换行 */
+ white-space: normal; /* 默认行为，允许换行 */
+ hyphens: auto; /* 自动添加连字符 */
+ text-align: justify; /* 让文本两端对齐 */
+ }
+
+ ul { 
+ list-style-type: disc; 
+ margin-left: 20px; 
+ }
+
+ .turbo-image-container {
+ display: block;
+ width: 80%; /* 容器宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ text-align: center;
+ }
+ .turbo-image-container img {
+ display: block; /* 让图片变成块级元素 */
+ margin: 0 auto; /* 让图片水平居中 */
+ max-width: 100%; /* 确保不会超出父容器 */
+ height: auto;
+ }
+ .responsive-img {
+ width: 100%; /* 图片宽度为容器的100% */
+ height: auto; /* 保持图片的纵横比 */
+ display: block; /* 让图片作为块级元素 */
+ margin: 0 auto; /* 居中 */
+ }
+
+ /* 新的样式，只针对四张图片的容器 */
+ .turbo-images-row {
+ display: flex; /* 使用 flexbox 来水平排列图片 */
+ justify-content: space-between; /* 图片之间的间隔均等分配 */
+ width: 100%; /* 容器占满宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ }
+ .turbo-images-row img {
+ width: 20%; /* 设置每张图片的宽度为容器的 22% */
+ height: auto; /* 确保图片比例不变 */
+ margin-top: 0; 
+ margin-bottom: 0; 
+ }
+
+ /* 新增√符号的列表样式 */
+ .checklist {
+ list-style-type: none; /* 不使用默认的项目符号 */
+ padding-left: 0;
+ }
+ .checklist li {
+ display: flex; /* 确保符号和文字对齐 */
+ }
+ .checklist li::before {
+ content: '✓';
+ color: rgb(76, 83, 85); /* 勾选符号的颜色 */
+ margin-right: 20px; /* 符号与文本之间的间距 */
+ }
+
+ .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }
+ &lt;/style>
+&lt;/head>
+&lt;body class="turbo-page">
+ &lt;div class="header-container">
+ &lt;h1 class="turbo-H1">TurboTides&lt;/h1>
+ &lt;a href="https://www.turbotides.com/docs/TurboTides.docx" class="download-button" download>
+ &lt;i class="fa fa-download">&lt;/i>Download PDF
+ &lt;/a>
+ &lt;/div>
+
+ 
+ &lt;h2 class="turbo-H2">Turbomachinery Integrated Design System&lt;/h2>
+ &lt;p>TurboTides is a specialized tool tailored specifically for turbomachinery design, based on systems engineering principles, 
+ offering turbomachinery industry users an integrated, intelligent, and customizable CAE design solution.
+ &lt;/p></description></item><item><title>About Us</title><link>https://www.turbotides.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/about/</guid><description>&lt;div class="about-text-container">
+ 
+ &lt;p>&lt;p>We provide sales and marketing as well as technical support to TurboTides software, a next generation integrated turbomachinery design system. Through working together with partners, we have the expertise to offer design services that will take your project from an innovative idea into a tested machine.&lt;/p>
+&lt;p>Our team is passionate and energetic, bringing together expertise and enthusiasm to drive innovation in turbomachinery design. We believe in fostering a dynamic work environment that encourages creativity, collaboration, and continuous growth.&lt;/p></description></item><item><title>About Us</title><link>https://www.turbotides.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/contact/</guid><description>&lt;div class="about-text-container">
+ 
+ &lt;p>We provide sales and marketing as well as technical support to TurboTides, FloTides, OpTides, OASIS/OptiPro software. Through working together with partners, we have the expertise to offer design services that will take your project from an innovative idea into a tested machine.&lt;/p>
+ 
+&lt;/div>
+
+&lt;style>
+ .slogan-full-width-bg {
+ width: 100vw;
+ position: relative;
+ left: 50%;
+ right: 50%;
+ margin-left: -50vw;
+ margin-right: -50vw;
+ background-color: #9cb8d3;
+ padding: 32px 0; 
+ margin-top: 50px;
+ margin-bottom: -50px;
+ }
+
+ body {
+ overflow-x: hidden; 
+ }
+
+ .slogan {
+ text-align: center; 
+ align-items: center; 
+ font-size: 24px; 
+ font-weight: bold; 
+ font-family: "Arial", "Helvetica", sans-serif; 
+ letter-spacing: 2px; 
+ line-height: 1.5; 
+ color: white;
+ text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3); 
+ }
+&lt;/style>
+
+&lt;style>
+ 
+ .about-image-bg {
+ width: 100vw;
+ position: relative;
+ left: 50%;
+ right: 50%;
+ margin-left: -50vw;
+ margin-right: -50vw;
+ }
+
+ 
+ .big-image {
+ display: block;
+ margin: 0 auto 0; 
+ width: 100%; 
+ height: auto; 
+ max-width: 1096px; 
+ }
+
+ @media (max-width: 768px) {
+ .big-image {
+ width:87%; 
+ margin: 0 auto;
+ }
+ }
+&lt;/style>
+
+
+ &lt;div class="about-image-bg">
+ 
+ &lt;picture>
+ &lt;source srcset="https://www.turbotides.com/img/about/company.webp" type="image/webp">
+ &lt;img src="https://www.turbotides.com/img/about/company.jpg" alt="Company Image" class="big-image">
+ &lt;/picture>
+ &lt;/div> 
+&lt;hr>
+&lt;h2 id="contact-us">Contact Us&lt;/h2>
+&lt;style>
+.text-full-width-bg {
+ width: 100vw;
+ position: relative;
+ left: 50%;
+ right: 50%;
+ margin-left: -50vw;
+ margin-right: -50vw;
+}
+
+body {
+ overflow-x: hidden; 
+}
+
+.text-container {
+ max-width: 1200px;
+ margin: 0 auto;
+ padding: 0 45px;
+ font-size: 0.9em; 
+}
+
+.text-container h1 {
+ font-size: 3rem;
+ font-family: Montserrat, Noto Sans JP, sans-serif;
+ font-weight: inherit;
+ margin-bottom: 1rem;
+ color: #000000;
+ line-height: 1;
+}
+
+.text-container h2 {
+ margin-top: 2.5rem;
+ margin-bottom: 2rem;
+ color: #000000;
+ line-height: 1;
+}
+
+.text-container h3 {
+ margin-top: 20px;
+ color: #333;
+ font-size: 1.3em; 
+}
+
+.text-container ul {
+ padding-left: 1.5rem;
+ list-style-type: disc;
+ margin-top: 0.75rem;
+ margin-bottom: 1rem;
+}
+
+.text-container li {
+ font-size: 1em; 
+ margin-bottom: 0.5rem; 
+ line-height: 1.5;
+}
+
+ 
+.text-container a {
+ color: #0066cc;
+ text-decoration: underline; 
+}
+
+.text-container a:hover {
+ text-decoration: underline;
+ color: #004c99; 
+}
+
+
+ 
+.contact-cards {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ gap: 2rem;
+ margin: 2rem 0;
+}
+
+.contact-card {
+ background: white;
+ border-radius: 8px;
+ box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+ padding: 1.5rem;
+ min-width: 280px;
+ flex: 1;
+ transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.contact-card:hover {
+ transform: translateY(-5px);
+ box-shadow: 0 8px 16px rgba(0,0,0,0.12);
+}
+
+.card-title {
+ font-size: 1.5rem;
+ color: #333;
+ margin-bottom: 1rem;
+ border-bottom: 2px solid #eaeaea;
+ padding-bottom: 0.5rem;
+}
+
+.card-icon {
+ font-size: 2rem;
+ color: #0066cc;
+ margin-bottom: 1rem;
+ display: block;
+ text-align: center;
+}
+
+
+&lt;/style>
+
+&lt;div class="text-full-width-bg">
+ &lt;div class="text-container">
+ &lt;div class="contact-cards">
+
+ &lt;div class="contact-card">
+ &lt;span class="card-icon">🔷&lt;/span>
+ &lt;h2 class="card-title">Headquarters&lt;/h2>
+ &lt;ul>
+ &lt;li>Email: &lt;a href="mailto:info@turbotides.com">info@turbotides.com&lt;/a>&lt;/li>
+ &lt;li>Business Hours: Monday-Friday, 9:00 AM - 6:00 PM (UTC+8)&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/div>
+
+ &lt;div class="contact-card">
+ &lt;span class="card-icon">🌐&lt;/span>
+ &lt;h2 class="card-title">Channel Partner&lt;/h2>
+ &lt;h3>United States&lt;/h3>
+ &lt;ul>
+ &lt;li>Email: &lt;a href="mailto:info@spinpous.com">info@spinpous.com&lt;/a>&lt;/li>
+ &lt;/ul>
+ &lt;/div>
+
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="inquiry">Inquiry&lt;/h2>
+
+&lt;div class="about-text-container">
+ 
+ &lt;p>If you have any questions regarding our products, services, or if you possess valuable suggestions that could help us enhance your experience,
+please feel completely at ease to contact us. One of our dedicated representatives will respond promptly to assist you.&lt;/p></description></item><item><title>Coming Soon</title><link>https://www.turbotides.com/blog/coming-soon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/coming-soon/</guid><description>&lt;p>We&amp;rsquo;re actively developing new case studies for this product. Please check back later!&lt;/p></description></item><item><title>Thank You</title><link>https://www.turbotides.com/thank-you/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/thank-you/</guid><description>&lt;div class="about-text-container">
+ 
+ &lt;p>&lt;h2 id="thank-you-for-your-message">Thank you for your message&lt;/h2>
+&lt;p>We have received your message and will contact you as soon as possible.&lt;/p>&lt;/p>
+ 
+&lt;/div>
+
+&lt;style>
+ .slogan-full-width-bg {
+ width: 100vw;
+ position: relative;
+ left: 50%;
+ right: 50%;
+ margin-left: -50vw;
+ margin-right: -50vw;
+ background-color: #9cb8d3;
+ padding: 32px 0; 
+ margin-top: 50px;
+ margin-bottom: -50px;
+ }
+
+ body {
+ overflow-x: hidden; 
+ }
+
+ .slogan {
+ text-align: center; 
+ align-items: center; 
+ font-size: 24px; 
+ font-weight: bold; 
+ font-family: "Arial", "Helvetica", sans-serif; 
+ letter-spacing: 2px; 
+ line-height: 1.5; 
+ color: white;
+ text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3); 
+ }
+&lt;/style></description></item></channel></rss>
