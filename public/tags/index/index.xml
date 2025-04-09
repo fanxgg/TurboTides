@@ -1,19 +1,165 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Index on TURBOTIDES</title>
-    <link>https://www.turbotides.com/tags/index/</link>
-    <description>Recent content in Index on TURBOTIDES</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.turbotides.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Case Studies</title>
-      <link>https://www.turbotides.com/blog/</link>
-      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.turbotides.com/blog/</guid>
-      <description>&lt;style&gt;&#xD;&#xA;    .case-timeline {&#xD;&#xA;        position: relative;&#xD;&#xA;        max-width: 1200px;&#xD;&#xA;        margin: 0 auto;&#xD;&#xA;        padding: 40px 0;&#xD;&#xA;        min-height: 680px;&#xD;&#xA;        display: flex;&#xD;&#xA;        flex-direction: column;&#xD;&#xA;        justify-content: space-between;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .case-timeline::before {&#xD;&#xA;        content: &#39;&#39;;&#xD;&#xA;        position: absolute;&#xD;&#xA;        height: 100%;&#xD;&#xA;        width: 4px;&#xD;&#xA;        background: linear-gradient(180deg, #3b82f6 0%, #4472c4 100%);&#xD;&#xA;        left: 50%;&#xD;&#xA;        transform: translateX(-50%);&#xD;&#xA;        z-index: 0;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;     &#xD;&#xA;    .timeline-node:nth-child(1) {&#xD;&#xA;        top: 5%;  &#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .timeline-node:nth-child(2) {&#xD;&#xA;        top: 30%;  &#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .timeline-node:nth-child(3) {&#xD;&#xA;        top: 55%;  &#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .timeline-node:nth-child(4) {&#xD;&#xA;        top: 80%;  &#xD;&#xA;    }&#xD;&#xA;&#xD;&#xA;    .timeline-node {&#xD;&#xA;        position: relative;&#xD;&#xA;        margin: 0;&#xD;&#xA;        height: 140px;&#xD;&#xA;        display: flex;&#xD;&#xA;        justify-content: center;&#xD;&#xA;        align-items: center;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .timeline-node:nth-child(odd) .timeline-content {&#xD;&#xA;        left: 55%;&#xD;&#xA;        top: 0;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .timeline-node:nth-child(even) .timeline-content {&#xD;&#xA;        right: 55%;&#xD;&#xA;        top: 0;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .timeline-content {&#xD;&#xA;        background: white;&#xD;&#xA;        border-radius: 10px;&#xD;&#xA;        box-shadow: 0 4px 16px rgba(0,0,0,0.1);&#xD;&#xA;        padding: 25px;&#xD;&#xA;        width: 40%;&#xD;&#xA;        position: absolute;&#xD;&#xA;        transition: transform 0.3s, box-shadow 0.3s;&#xD;&#xA;        z-index: 1;&#xD;&#xA;        min-height: 140px;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .timeline-content:hover {&#xD;&#xA;        transform: translateY(-5px);&#xD;&#xA;        box-shadow: 0 10px 25px rgba(0,0,0,0.15);&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .timeline-dot {&#xD;&#xA;        width: 28px;&#xD;&#xA;        height: 28px;&#xD;&#xA;        border-radius: 50%;&#xD;&#xA;        background: #4472c4;&#xD;&#xA;        border: 4px solid white;&#xD;&#xA;        box-shadow: 0 2px 5px rgba(0,0,0,0.2);&#xD;&#xA;        position: absolute;&#xD;&#xA;        top: 50%;&#xD;&#xA;        left: 50%;&#xD;&#xA;        transform: translate(-50%, -50%);&#xD;&#xA;        z-index: 2;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .timeline-title {&#xD;&#xA;        color: #333;&#xD;&#xA;        font-size: 1.5rem;&#xD;&#xA;        font-weight: bold;&#xD;&#xA;        margin-bottom: 10px;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .timeline-count {&#xD;&#xA;        color: #777;&#xD;&#xA;        font-size: 1rem;&#xD;&#xA;        margin-bottom: 15px;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .timeline-btn {&#xD;&#xA;        display: inline-block;&#xD;&#xA;        padding: 8px 16px;&#xD;&#xA;        background-color: #4472c4;&#xD;&#xA;        color: white;&#xD;&#xA;        border-radius: 5px;&#xD;&#xA;        text-decoration: none;&#xD;&#xA;        font-weight: 500;&#xD;&#xA;        transition: background-color 0.3s;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    .timeline-btn:hover {&#xD;&#xA;        background-color: #365899;&#xD;&#xA;    }&#xD;&#xA;    &#xD;&#xA;    @media (max-width: 768px) {&#xD;&#xA;        .case-timeline {&#xD;&#xA;            min-height: 780px;  &#xD;&#xA;            padding-left: 30px;  &#xD;&#xA;        }&#xD;&#xA;        .case-timeline::before {&#xD;&#xA;            left: 30px;&#xD;&#xA;        }&#xD;&#xA;        &#xD;&#xA;        .timeline-node {&#xD;&#xA;            justify-content: flex-start;&#xD;&#xA;            margin: 0;&#xD;&#xA;            min-height: 150px;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;         &#xD;&#xA;        .timeline-node:nth-child(1) { top: 5%; }&#xD;&#xA;        .timeline-node:nth-child(2) { top: 28%; }&#xD;&#xA;        .timeline-node:nth-child(3) { top: 51%; }&#xD;&#xA;        .timeline-node:nth-child(4) { top: 74%; }&#xD;&#xA;        &#xD;&#xA;        .timeline-node:nth-child(odd) .timeline-content,&#xD;&#xA;        .timeline-node:nth-child(even) .timeline-content {&#xD;&#xA;            left: 50px;&#xD;&#xA;            right: auto;&#xD;&#xA;            width: calc(100% - 80px);&#xD;&#xA;            position: relative;  &#xD;&#xA;            top: 0;&#xD;&#xA;        }&#xD;&#xA;        &#xD;&#xA;        .timeline-dot {&#xD;&#xA;            left: 0;&#xD;&#xA;        }&#xD;&#xA;    }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;case-timeline&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;timeline-node&#34;&gt;&#xD;&#xA;            &lt;div class=&#34;timeline-dot&#34;&gt;&lt;/div&gt;&#xD;&#xA;            &lt;div class=&#34;timeline-content&#34;&gt;&#xD;&#xA;                &lt;h3 class=&#34;timeline-title&#34;&gt;TurboTides&lt;/h3&gt;&#xD;&#xA;                &#xD;&#xA;                    &#xD;&#xA;                &lt;p class=&#34;timeline-count&#34;&gt;&#xD;&#xA;                    20 &#xD;&#xA;                    cases&#xD;&#xA;                &lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Index on TURBOTIDES</title><link>https://www.turbotides.com/tags/index/</link><description>Recent content in Index on TURBOTIDES</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.turbotides.com/tags/index/index.xml" rel="self" type="application/rss+xml"/><item><title>Case Studies</title><link>https://www.turbotides.com/blog/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/blog/</guid><description>&lt;style>
+ .case-timeline {
+ position: relative;
+ max-width: 1200px;
+ margin: 0 auto;
+ padding: 40px 0;
+ min-height: 680px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ }
+ 
+ .case-timeline::before {
+ content: '';
+ position: absolute;
+ height: 100%;
+ width: 4px;
+ background: linear-gradient(180deg, #3b82f6 0%, #4472c4 100%);
+ left: 50%;
+ transform: translateX(-50%);
+ z-index: 0;
+ }
+ 
+ 
+ .timeline-node:nth-child(1) {
+ top: 5%; 
+ }
+
+ .timeline-node:nth-child(2) {
+ top: 30%; 
+ }
+
+ .timeline-node:nth-child(3) {
+ top: 55%; 
+ }
+
+ .timeline-node:nth-child(4) {
+ top: 80%; 
+ }
+
+ .timeline-node {
+ position: relative;
+ margin: 0;
+ height: 140px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ }
+ 
+ .timeline-node:nth-child(odd) .timeline-content {
+ left: 55%;
+ top: 0;
+ }
+ 
+ .timeline-node:nth-child(even) .timeline-content {
+ right: 55%;
+ top: 0;
+ }
+ 
+ .timeline-content {
+ background: white;
+ border-radius: 10px;
+ box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+ padding: 25px;
+ width: 40%;
+ position: absolute;
+ transition: transform 0.3s, box-shadow 0.3s;
+ z-index: 1;
+ min-height: 140px;
+ }
+ 
+ .timeline-content:hover {
+ transform: translateY(-5px);
+ box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+ }
+ 
+ .timeline-dot {
+ width: 28px;
+ height: 28px;
+ border-radius: 50%;
+ background: #4472c4;
+ border: 4px solid white;
+ box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ z-index: 2;
+ }
+ 
+ .timeline-title {
+ color: #333;
+ font-size: 1.5rem;
+ font-weight: bold;
+ margin-bottom: 10px;
+ }
+ 
+ .timeline-count {
+ color: #777;
+ font-size: 1rem;
+ margin-bottom: 15px;
+ }
+ 
+ .timeline-btn {
+ display: inline-block;
+ padding: 8px 16px;
+ background-color: #4472c4;
+ color: white;
+ border-radius: 5px;
+ text-decoration: none;
+ font-weight: 500;
+ transition: background-color 0.3s;
+ }
+ 
+ .timeline-btn:hover {
+ background-color: #365899;
+ }
+ 
+ @media (max-width: 768px) {
+ .case-timeline {
+ min-height: 780px; 
+ padding-left: 30px; 
+ }
+ .case-timeline::before {
+ left: 30px;
+ }
+ 
+ .timeline-node {
+ justify-content: flex-start;
+ margin: 0;
+ min-height: 150px;
+ }
+
+ 
+ .timeline-node:nth-child(1) { top: 5%; }
+ .timeline-node:nth-child(2) { top: 28%; }
+ .timeline-node:nth-child(3) { top: 51%; }
+ .timeline-node:nth-child(4) { top: 74%; }
+ 
+ .timeline-node:nth-child(odd) .timeline-content,
+ .timeline-node:nth-child(even) .timeline-content {
+ left: 50px;
+ right: auto;
+ width: calc(100% - 80px);
+ position: relative; 
+ top: 0;
+ }
+ 
+ .timeline-dot {
+ left: 0;
+ }
+ }
+ &lt;/style>
+ 
+ &lt;div class="case-timeline">
+ &lt;div class="timeline-node">
+ &lt;div class="timeline-dot">&lt;/div>
+ &lt;div class="timeline-content">
+ &lt;h3 class="timeline-title">TurboTides&lt;/h3>
+ 
+ 
+ &lt;p class="timeline-count">
+ 20 
+ cases
+ &lt;/p></description></item></channel></rss>
