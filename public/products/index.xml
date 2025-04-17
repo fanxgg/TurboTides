@@ -1,68 +1,685 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Products on TURBOTIDES</title>
-    <link>https://www.turbotides.com/products/</link>
-    <description>Recent content in Products on TURBOTIDES</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.turbotides.com/products/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://www.turbotides.com/products/flotides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.turbotides.com/products/flotides/</guid>
-      <description>&lt;div class=&#34;custom-html-content&#34;&gt;&#xA;        &lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;FloTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .flotides-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;flotides-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&lt;/div&gt;&#xD;&#xA;        &lt;h1 class=&#34;flotides-H1&#34;&gt;FloTides&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xA;    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.turbotides.com/products/optides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.turbotides.com/products/optides/</guid>
-      <description>&lt;div class=&#34;custom-html-content&#34;&gt;&#xA;        &lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;OpTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .optides-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;optides-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;optides-H1&#34;&gt;OptiTides&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;&#xA;    &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.turbotides.com/products/optipro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.turbotides.com/products/optipro/</guid>
-      <description>&lt;div class=&#34;custom-html-content&#34;&gt;&#xA;        &lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;OASIS&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button {&#xD;&#xA;            display: inline-block;&#xD;&#xA;            padding: 10px 15px;&#xD;&#xA;            background-color: #4472c4;&#xD;&#xA;            color: white;&#xD;&#xA;            text-decoration: none;&#xD;&#xA;            border-radius: 5px;&#xD;&#xA;            font-weight: bold;&#xD;&#xA;            transition: background-color 0.3s;&#xD;&#xA;            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button:hover {&#xD;&#xA;            background-color: #365899;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button i {&#xD;&#xA;            margin-right: 8px;&#xD;&#xA;        }&#xD;&#xA;        .oasis-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .oasis-H2 {&#xD;&#xA;            color: #353333; &#xD;&#xA;            font-size: 2rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 2rem 0;  &#xD;&#xA;            text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        }&#xD;&#xA;        .oasis-H3 {&#xD;&#xA;            color: #2c3e50; &#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        p {&#xD;&#xA;            word-wrap: break-word; /* 允许长单词换行 */&#xD;&#xA;            white-space: normal; /* 默认行为，允许换行 */&#xD;&#xA;            hyphens: auto; /* 自动添加连字符 */&#xD;&#xA;            text-align: justify; /* 让文本两端对齐 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        ul { &#xD;&#xA;            list-style-type: disc; &#xD;&#xA;            margin-left: 20px; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .oasis-image-container {&#xD;&#xA;            display: block;&#xD;&#xA;            width: 80%; /* 容器宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;            text-align: center;&#xD;&#xA;        }&#xD;&#xA;        .oasis-image-container img {&#xD;&#xA;            display: block; /* 让图片变成块级元素 */&#xD;&#xA;            margin: 0 auto; /* 让图片水平居中 */&#xD;&#xA;            max-width: 100%; /* 确保不会超出父容器 */&#xD;&#xA;            height: auto;&#xD;&#xA;        }&#xD;&#xA;        .responsive-img {&#xD;&#xA;            width: 100%; /* 图片宽度为容器的100% */&#xD;&#xA;            height: auto; /* 保持图片的纵横比 */&#xD;&#xA;            display: block; /* 让图片作为块级元素 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新的样式，只针对四张图片的容器 */&#xD;&#xA;        .oasis-images-row {&#xD;&#xA;            display: flex; /* 使用 flexbox 来水平排列图片 */&#xD;&#xA;            justify-content: space-between; /* 图片之间的间隔均等分配 */&#xD;&#xA;            width: 100%; /* 容器占满宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;        .oasis-images-row img {&#xD;&#xA;            width: 20%; /* 设置每张图片的宽度为容器的 22% */&#xD;&#xA;            height: auto; /* 确保图片比例不变 */&#xD;&#xA;            margin-top: 0; &#xD;&#xA;            margin-bottom: 0; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新增√符号的列表样式 */&#xD;&#xA;        .checklist {&#xD;&#xA;            list-style-type: none; /* 不使用默认的项目符号 */&#xD;&#xA;            padding-left: 0;&#xD;&#xA;        }&#xD;&#xA;        .checklist li {&#xD;&#xA;            display: flex; /* 确保符号和文字对齐 */&#xD;&#xA;        }&#xD;&#xA;        .checklist li::before {&#xD;&#xA;            content: &#39;✓&#39;;&#xD;&#xA;            color: rgb(76, 83, 85); /* 勾选符号的颜色 */&#xD;&#xA;            margin-right: 20px; /* 符号与文本之间的间距 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;oasis-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;oasis-H1&#34;&gt;OASIS&lt;/h1&gt;&#xD;&#xA;        &lt;a href=&#34;https://www.turbotides.com/docs/OASIS.docx&#34; class=&#34;download-button&#34; download&gt;&#xD;&#xA;            &lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;Download PDF&#xD;&#xA;        &lt;/a&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &lt;h2 class=&#34;oasis-H2&#34;&gt;Next-generation optimization software&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;OASIS delivers next-generation optimization capabilities that revolutionize traditional simulation and prototyping workflows &#xD;&#xA;        through advanced optimization techniques. Applying industry-leading optimization techniques to your design process, &#xD;&#xA;        lets you tackle the most pressing optimization challenges: &#xD;&#xA;    &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.turbotides.com/products/products-flotides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.turbotides.com/products/products-flotides/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;FloTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .flotides-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;flotides-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&lt;/div&gt;&#xD;&#xA;        &lt;h1 class=&#34;flotides-H1&#34;&gt;FloTides&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.turbotides.com/products/products-optides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.turbotides.com/products/products-optides/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;OpTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;        .optides-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .coming-soon-container {&#xD;&#xA;            text-align: center;&#xD;&#xA;            padding: 100px 20px;&#xD;&#xA;            max-width: 800px;&#xD;&#xA;            margin: 0 auto;&#xD;&#xA;        }&#xD;&#xA;        .coming-soon-message {&#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;            color: #333;&#xD;&#xA;            line-height: 1.6;&#xD;&#xA;        }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;optides-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;optides-H1&#34;&gt;OptiTides&lt;/h1&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;coming-soon-container&#34;&gt;&#xD;&#xA;        &lt;p class=&#34;coming-soon-message&#34;&gt;More content coming soon!&lt;/p&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/body&gt;&#xD;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.turbotides.com/products/products-optipro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.turbotides.com/products/products-optipro/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;OASIS&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button {&#xD;&#xA;            display: inline-block;&#xD;&#xA;            padding: 10px 15px;&#xD;&#xA;            background-color: #4472c4;&#xD;&#xA;            color: white;&#xD;&#xA;            text-decoration: none;&#xD;&#xA;            border-radius: 5px;&#xD;&#xA;            font-weight: bold;&#xD;&#xA;            transition: background-color 0.3s;&#xD;&#xA;            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button:hover {&#xD;&#xA;            background-color: #365899;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button i {&#xD;&#xA;            margin-right: 8px;&#xD;&#xA;        }&#xD;&#xA;        .oasis-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .oasis-H2 {&#xD;&#xA;            color: #353333; &#xD;&#xA;            font-size: 2rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 2rem 0;  &#xD;&#xA;            text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        }&#xD;&#xA;        .oasis-H3 {&#xD;&#xA;            color: #2c3e50; &#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        p {&#xD;&#xA;            word-wrap: break-word; /* 允许长单词换行 */&#xD;&#xA;            white-space: normal; /* 默认行为，允许换行 */&#xD;&#xA;            hyphens: auto; /* 自动添加连字符 */&#xD;&#xA;            text-align: justify; /* 让文本两端对齐 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        ul { &#xD;&#xA;            list-style-type: disc; &#xD;&#xA;            margin-left: 20px; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .oasis-image-container {&#xD;&#xA;            display: block;&#xD;&#xA;            width: 80%; /* 容器宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;            text-align: center;&#xD;&#xA;        }&#xD;&#xA;        .oasis-image-container img {&#xD;&#xA;            display: block; /* 让图片变成块级元素 */&#xD;&#xA;            margin: 0 auto; /* 让图片水平居中 */&#xD;&#xA;            max-width: 100%; /* 确保不会超出父容器 */&#xD;&#xA;            height: auto;&#xD;&#xA;        }&#xD;&#xA;        .responsive-img {&#xD;&#xA;            width: 100%; /* 图片宽度为容器的100% */&#xD;&#xA;            height: auto; /* 保持图片的纵横比 */&#xD;&#xA;            display: block; /* 让图片作为块级元素 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新的样式，只针对四张图片的容器 */&#xD;&#xA;        .oasis-images-row {&#xD;&#xA;            display: flex; /* 使用 flexbox 来水平排列图片 */&#xD;&#xA;            justify-content: space-between; /* 图片之间的间隔均等分配 */&#xD;&#xA;            width: 100%; /* 容器占满宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;        .oasis-images-row img {&#xD;&#xA;            width: 20%; /* 设置每张图片的宽度为容器的 22% */&#xD;&#xA;            height: auto; /* 确保图片比例不变 */&#xD;&#xA;            margin-top: 0; &#xD;&#xA;            margin-bottom: 0; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新增√符号的列表样式 */&#xD;&#xA;        .checklist {&#xD;&#xA;            list-style-type: none; /* 不使用默认的项目符号 */&#xD;&#xA;            padding-left: 0;&#xD;&#xA;        }&#xD;&#xA;        .checklist li {&#xD;&#xA;            display: flex; /* 确保符号和文字对齐 */&#xD;&#xA;        }&#xD;&#xA;        .checklist li::before {&#xD;&#xA;            content: &#39;✓&#39;;&#xD;&#xA;            color: rgb(76, 83, 85); /* 勾选符号的颜色 */&#xD;&#xA;            margin-right: 20px; /* 符号与文本之间的间距 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;oasis-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;oasis-H1&#34;&gt;OASIS&lt;/h1&gt;&#xD;&#xA;        &lt;a href=&#34;https://www.turbotides.com/docs/OASIS.docx&#34; class=&#34;download-button&#34; download&gt;&#xD;&#xA;            &lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;Download PDF&#xD;&#xA;        &lt;/a&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &lt;h2 class=&#34;oasis-H2&#34;&gt;Next-generation optimization software&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;OASIS delivers next-generation optimization capabilities that revolutionize traditional simulation and prototyping workflows &#xD;&#xA;        through advanced optimization techniques. Applying industry-leading optimization techniques to your design process, &#xD;&#xA;        lets you tackle the most pressing optimization challenges: &#xD;&#xA;    &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.turbotides.com/products/products-turbotides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.turbotides.com/products/products-turbotides/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;TurboTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button {&#xD;&#xA;            display: inline-block;&#xD;&#xA;            padding: 10px 15px;&#xD;&#xA;            background-color: #4472c4;&#xD;&#xA;            color: white;&#xD;&#xA;            text-decoration: none;&#xD;&#xA;            border-radius: 5px;&#xD;&#xA;            font-weight: bold;&#xD;&#xA;            transition: background-color 0.3s;&#xD;&#xA;            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button:hover {&#xD;&#xA;            background-color: #365899;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button i {&#xD;&#xA;            margin-right: 8px;&#xD;&#xA;        }&#xD;&#xA;        .turbo-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .turbo-H2 {&#xD;&#xA;            color: #353333; &#xD;&#xA;            font-size: 2rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 2rem 0;  &#xD;&#xA;            text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        }&#xD;&#xA;        .turbo-H3 {&#xD;&#xA;            color: #2c3e50; &#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        p {&#xD;&#xA;            word-wrap: break-word; /* 允许长单词换行 */&#xD;&#xA;            white-space: normal; /* 默认行为，允许换行 */&#xD;&#xA;            hyphens: auto; /* 自动添加连字符 */&#xD;&#xA;            text-align: justify; /* 让文本两端对齐 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        ul { &#xD;&#xA;            list-style-type: disc; &#xD;&#xA;            margin-left: 20px; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .turbo-image-container {&#xD;&#xA;            display: block;&#xD;&#xA;            width: 80%; /* 容器宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;            text-align: center;&#xD;&#xA;        }&#xD;&#xA;        .turbo-image-container img {&#xD;&#xA;            display: block; /* 让图片变成块级元素 */&#xD;&#xA;            margin: 0 auto; /* 让图片水平居中 */&#xD;&#xA;            max-width: 100%; /* 确保不会超出父容器 */&#xD;&#xA;            height: auto;&#xD;&#xA;        }&#xD;&#xA;        .responsive-img {&#xD;&#xA;            width: 100%; /* 图片宽度为容器的100% */&#xD;&#xA;            height: auto; /* 保持图片的纵横比 */&#xD;&#xA;            display: block; /* 让图片作为块级元素 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新的样式，只针对四张图片的容器 */&#xD;&#xA;        .turbo-images-row {&#xD;&#xA;            display: flex; /* 使用 flexbox 来水平排列图片 */&#xD;&#xA;            justify-content: space-between; /* 图片之间的间隔均等分配 */&#xD;&#xA;            width: 100%; /* 容器占满宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;        .turbo-images-row img {&#xD;&#xA;            width: 20%; /* 设置每张图片的宽度为容器的 22% */&#xD;&#xA;            height: auto; /* 确保图片比例不变 */&#xD;&#xA;            margin-top: 0; &#xD;&#xA;            margin-bottom: 0; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新增√符号的列表样式 */&#xD;&#xA;        .checklist {&#xD;&#xA;            list-style-type: none; /* 不使用默认的项目符号 */&#xD;&#xA;            padding-left: 0;&#xD;&#xA;        }&#xD;&#xA;        .checklist li {&#xD;&#xA;            display: flex; /* 确保符号和文字对齐 */&#xD;&#xA;        }&#xD;&#xA;        .checklist li::before {&#xD;&#xA;            content: &#39;✓&#39;;&#xD;&#xA;            color: rgb(76, 83, 85); /* 勾选符号的颜色 */&#xD;&#xA;            margin-right: 20px; /* 符号与文本之间的间距 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;turbo-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;turbo-H1&#34;&gt;TurboTides&lt;/h1&gt;&#xD;&#xA;        &lt;a href=&#34;https://www.turbotides.com/docs/TurboTides.pdf&#34; class=&#34;download-button&#34; download&gt;&#xD;&#xA;            &lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;Download PDF&#xD;&#xA;        &lt;/a&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &lt;h2 class=&#34;turbo-H2&#34;&gt;Turbomachinery Integrated Design System&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;TurboTides is a specialized tool tailored specifically for turbomachinery design, based on systems engineering principles, &#xD;&#xA;        offering turbomachinery industry users an integrated, intelligent, and customizable CAE design solution.&#xD;&#xA;    &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.turbotides.com/products/turbotides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.turbotides.com/products/turbotides/</guid>
-      <description>&lt;div class=&#34;custom-html-content&#34;&gt;&#xA;        &lt;!DOCTYPE html&gt;&#xD;&#xA;&lt;html&gt;&#xD;&#xA;&lt;head&gt;&#xD;&#xA;    &lt;title&gt;TurboTides&lt;/title&gt;&#xD;&#xA;    &lt;style&gt;&#xD;&#xA;        .header-container {&#xD;&#xA;            display: flex;&#xD;&#xA;            justify-content: space-between;&#xD;&#xA;            align-items: center;&#xD;&#xA;            margin-top: 0;&#xD;&#xA;            margin-bottom: 1rem; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button {&#xD;&#xA;            display: inline-block;&#xD;&#xA;            padding: 10px 15px;&#xD;&#xA;            background-color: #4472c4;&#xD;&#xA;            color: white;&#xD;&#xA;            text-decoration: none;&#xD;&#xA;            border-radius: 5px;&#xD;&#xA;            font-weight: bold;&#xD;&#xA;            transition: background-color 0.3s;&#xD;&#xA;            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button:hover {&#xD;&#xA;            background-color: #365899;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .download-button i {&#xD;&#xA;            margin-right: 8px;&#xD;&#xA;        }&#xD;&#xA;        .turbo-H1 {&#xD;&#xA;            font-family: Arial, sans-serif;&#xD;&#xA;            font-size: 2.5rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 0;&#xD;&#xA;            color: #4472c4;&#xD;&#xA;            text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        } &#xD;&#xA;        .turbo-H2 {&#xD;&#xA;            color: #353333; &#xD;&#xA;            font-size: 2rem;&#xD;&#xA;            line-height: 1;&#xD;&#xA;            margin: 2rem 0;  &#xD;&#xA;            text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); &#xD;&#xA;        }&#xD;&#xA;        .turbo-H3 {&#xD;&#xA;            color: #2c3e50; &#xD;&#xA;            font-size: 1.5rem;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        p {&#xD;&#xA;            word-wrap: break-word; /* 允许长单词换行 */&#xD;&#xA;            white-space: normal; /* 默认行为，允许换行 */&#xD;&#xA;            hyphens: auto; /* 自动添加连字符 */&#xD;&#xA;            text-align: justify; /* 让文本两端对齐 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        ul { &#xD;&#xA;            list-style-type: disc; &#xD;&#xA;            margin-left: 20px; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .turbo-image-container {&#xD;&#xA;            display: block;&#xD;&#xA;            width: 80%; /* 容器宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;            text-align: center;&#xD;&#xA;        }&#xD;&#xA;        .turbo-image-container img {&#xD;&#xA;            display: block; /* 让图片变成块级元素 */&#xD;&#xA;            margin: 0 auto; /* 让图片水平居中 */&#xD;&#xA;            max-width: 100%; /* 确保不会超出父容器 */&#xD;&#xA;            height: auto;&#xD;&#xA;        }&#xD;&#xA;        .responsive-img {&#xD;&#xA;            width: 100%; /* 图片宽度为容器的100% */&#xD;&#xA;            height: auto; /* 保持图片的纵横比 */&#xD;&#xA;            display: block; /* 让图片作为块级元素 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新的样式，只针对四张图片的容器 */&#xD;&#xA;        .turbo-images-row {&#xD;&#xA;            display: flex; /* 使用 flexbox 来水平排列图片 */&#xD;&#xA;            justify-content: space-between; /* 图片之间的间隔均等分配 */&#xD;&#xA;            width: 100%; /* 容器占满宽度 */&#xD;&#xA;            max-width: 1000px; /* 限制最大宽度 */&#xD;&#xA;            margin: 0 auto; /* 居中 */&#xD;&#xA;        }&#xD;&#xA;        .turbo-images-row img {&#xD;&#xA;            width: 20%; /* 设置每张图片的宽度为容器的 22% */&#xD;&#xA;            height: auto; /* 确保图片比例不变 */&#xD;&#xA;            margin-top: 0; &#xD;&#xA;            margin-bottom: 0; &#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        /* 新增√符号的列表样式 */&#xD;&#xA;        .checklist {&#xD;&#xA;            list-style-type: none; /* 不使用默认的项目符号 */&#xD;&#xA;            padding-left: 0;&#xD;&#xA;        }&#xD;&#xA;        .checklist li {&#xD;&#xA;            display: flex; /* 确保符号和文字对齐 */&#xD;&#xA;        }&#xD;&#xA;        .checklist li::before {&#xD;&#xA;            content: &#39;✓&#39;;&#xD;&#xA;            color: rgb(76, 83, 85); /* 勾选符号的颜色 */&#xD;&#xA;            margin-right: 20px; /* 符号与文本之间的间距 */&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }&#xD;&#xA;    &lt;/style&gt;&#xD;&#xA;&lt;/head&gt;&#xD;&#xA;&lt;body class=&#34;turbo-page&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;header-container&#34;&gt;&#xD;&#xA;        &lt;h1 class=&#34;turbo-H1&#34;&gt;TurboTides&lt;/h1&gt;&#xD;&#xA;        &lt;a href=&#34;https://www.turbotides.com/docs/TurboTides.pdf&#34; class=&#34;download-button&#34; download&gt;&#xD;&#xA;            &lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;Download PDF&#xD;&#xA;        &lt;/a&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &lt;h2 class=&#34;turbo-H2&#34;&gt;Turbomachinery Integrated Design System&lt;/h2&gt;&#xD;&#xA;    &lt;p&gt;TurboTides is a specialized tool tailored specifically for turbomachinery design, based on systems engineering principles, &#xD;&#xA;        offering turbomachinery industry users an integrated, intelligent, and customizable CAE design solution.&#xD;&#xA;    &lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Products on TURBOTIDES</title><link>https://www.turbotides.com/products/</link><description>Recent content in Products on TURBOTIDES</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://www.turbotides.com/products/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://www.turbotides.com/products/flotides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/flotides/</guid><description>&lt;div class="custom-html-content">
+ &lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>FloTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .flotides-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="flotides-page">
+ &lt;div class="header-container">&lt;/div>
+ &lt;h1 class="flotides-H1">FloTides&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html>
+ &lt;/div></description></item><item><title/><link>https://www.turbotides.com/products/optides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/optides/</guid><description>&lt;div class="custom-html-content">
+ &lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>OpTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .optides-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="optides-page">
+ &lt;div class="header-container">
+ &lt;h1 class="optides-H1">OptiTides&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html>
+ &lt;/div></description></item><item><title/><link>https://www.turbotides.com/products/optipro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/optipro/</guid><description>&lt;div class="custom-html-content">
+ &lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>OASIS&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+
+ .download-button {
+ display: inline-block;
+ padding: 10px 15px;
+ background-color: #4472c4;
+ color: white;
+ text-decoration: none;
+ border-radius: 5px;
+ font-weight: bold;
+ transition: background-color 0.3s;
+ box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+ }
+
+ .download-button:hover {
+ background-color: #365899;
+ }
+
+ .download-button i {
+ margin-right: 8px;
+ }
+ .oasis-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .oasis-H2 {
+ color: #353333; 
+ font-size: 2rem;
+ line-height: 1;
+ margin: 2rem 0; 
+ text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); 
+ }
+ .oasis-H3 {
+ color: #2c3e50; 
+ font-size: 1.5rem;
+ }
+
+ p {
+ word-wrap: break-word; /* 允许长单词换行 */
+ white-space: normal; /* 默认行为，允许换行 */
+ hyphens: auto; /* 自动添加连字符 */
+ text-align: justify; /* 让文本两端对齐 */
+ }
+
+ ul { 
+ list-style-type: disc; 
+ margin-left: 20px; 
+ }
+
+ .oasis-image-container {
+ display: block;
+ width: 80%; /* 容器宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ text-align: center;
+ }
+ .oasis-image-container img {
+ display: block; /* 让图片变成块级元素 */
+ margin: 0 auto; /* 让图片水平居中 */
+ max-width: 100%; /* 确保不会超出父容器 */
+ height: auto;
+ }
+ .responsive-img {
+ width: 100%; /* 图片宽度为容器的100% */
+ height: auto; /* 保持图片的纵横比 */
+ display: block; /* 让图片作为块级元素 */
+ margin: 0 auto; /* 居中 */
+ }
+
+ /* 新的样式，只针对四张图片的容器 */
+ .oasis-images-row {
+ display: flex; /* 使用 flexbox 来水平排列图片 */
+ justify-content: space-between; /* 图片之间的间隔均等分配 */
+ width: 100%; /* 容器占满宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ }
+ .oasis-images-row img {
+ width: 20%; /* 设置每张图片的宽度为容器的 22% */
+ height: auto; /* 确保图片比例不变 */
+ margin-top: 0; 
+ margin-bottom: 0; 
+ }
+
+ /* 新增√符号的列表样式 */
+ .checklist {
+ list-style-type: none; /* 不使用默认的项目符号 */
+ padding-left: 0;
+ }
+ .checklist li {
+ display: flex; /* 确保符号和文字对齐 */
+ }
+ .checklist li::before {
+ content: '✓';
+ color: rgb(76, 83, 85); /* 勾选符号的颜色 */
+ margin-right: 20px; /* 符号与文本之间的间距 */
+ }
+
+ .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }
+ &lt;/style>
+&lt;/head>
+&lt;body class="oasis-page">
+ &lt;div class="header-container">
+ &lt;h1 class="oasis-H1">OASIS&lt;/h1>
+ &lt;a href="https://www.turbotides.com/docs/OASIS.docx" class="download-button" download>
+ &lt;i class="fa fa-download">&lt;/i>Download PDF
+ &lt;/a>
+ &lt;/div>
+
+ 
+ &lt;h2 class="oasis-H2">Next-generation optimization software&lt;/h2>
+ &lt;p>OASIS delivers next-generation optimization capabilities that revolutionize traditional simulation and prototyping workflows 
+ through advanced optimization techniques. Applying industry-leading optimization techniques to your design process, 
+ lets you tackle the most pressing optimization challenges: 
+ &lt;/p></description></item><item><title/><link>https://www.turbotides.com/products/products-flotides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/products-flotides/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>FloTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .flotides-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="flotides-page">
+ &lt;div class="header-container">&lt;/div>
+ &lt;h1 class="flotides-H1">FloTides&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html></description></item><item><title/><link>https://www.turbotides.com/products/products-optides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/products-optides/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>OpTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+ .optides-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .coming-soon-container {
+ text-align: center;
+ padding: 100px 20px;
+ max-width: 800px;
+ margin: 0 auto;
+ }
+ .coming-soon-message {
+ font-size: 1.5rem;
+ color: #333;
+ line-height: 1.6;
+ }
+ &lt;/style>
+&lt;/head>
+&lt;body class="optides-page">
+ &lt;div class="header-container">
+ &lt;h1 class="optides-H1">OptiTides&lt;/h1>
+ &lt;/div>
+ &lt;div class="coming-soon-container">
+ &lt;p class="coming-soon-message">More content coming soon!&lt;/p>
+ &lt;/div>
+&lt;/body>
+&lt;/html></description></item><item><title/><link>https://www.turbotides.com/products/products-optipro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/products-optipro/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>OASIS&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+
+ .download-button {
+ display: inline-block;
+ padding: 10px 15px;
+ background-color: #4472c4;
+ color: white;
+ text-decoration: none;
+ border-radius: 5px;
+ font-weight: bold;
+ transition: background-color 0.3s;
+ box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+ }
+
+ .download-button:hover {
+ background-color: #365899;
+ }
+
+ .download-button i {
+ margin-right: 8px;
+ }
+ .oasis-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .oasis-H2 {
+ color: #353333; 
+ font-size: 2rem;
+ line-height: 1;
+ margin: 2rem 0; 
+ text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); 
+ }
+ .oasis-H3 {
+ color: #2c3e50; 
+ font-size: 1.5rem;
+ }
+
+ p {
+ word-wrap: break-word; /* 允许长单词换行 */
+ white-space: normal; /* 默认行为，允许换行 */
+ hyphens: auto; /* 自动添加连字符 */
+ text-align: justify; /* 让文本两端对齐 */
+ }
+
+ ul { 
+ list-style-type: disc; 
+ margin-left: 20px; 
+ }
+
+ .oasis-image-container {
+ display: block;
+ width: 80%; /* 容器宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ text-align: center;
+ }
+ .oasis-image-container img {
+ display: block; /* 让图片变成块级元素 */
+ margin: 0 auto; /* 让图片水平居中 */
+ max-width: 100%; /* 确保不会超出父容器 */
+ height: auto;
+ }
+ .responsive-img {
+ width: 100%; /* 图片宽度为容器的100% */
+ height: auto; /* 保持图片的纵横比 */
+ display: block; /* 让图片作为块级元素 */
+ margin: 0 auto; /* 居中 */
+ }
+
+ /* 新的样式，只针对四张图片的容器 */
+ .oasis-images-row {
+ display: flex; /* 使用 flexbox 来水平排列图片 */
+ justify-content: space-between; /* 图片之间的间隔均等分配 */
+ width: 100%; /* 容器占满宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ }
+ .oasis-images-row img {
+ width: 20%; /* 设置每张图片的宽度为容器的 22% */
+ height: auto; /* 确保图片比例不变 */
+ margin-top: 0; 
+ margin-bottom: 0; 
+ }
+
+ /* 新增√符号的列表样式 */
+ .checklist {
+ list-style-type: none; /* 不使用默认的项目符号 */
+ padding-left: 0;
+ }
+ .checklist li {
+ display: flex; /* 确保符号和文字对齐 */
+ }
+ .checklist li::before {
+ content: '✓';
+ color: rgb(76, 83, 85); /* 勾选符号的颜色 */
+ margin-right: 20px; /* 符号与文本之间的间距 */
+ }
+
+ .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }
+ &lt;/style>
+&lt;/head>
+&lt;body class="oasis-page">
+ &lt;div class="header-container">
+ &lt;h1 class="oasis-H1">OASIS&lt;/h1>
+ &lt;a href="https://www.turbotides.com/docs/OASIS.docx" class="download-button" download>
+ &lt;i class="fa fa-download">&lt;/i>Download PDF
+ &lt;/a>
+ &lt;/div>
+
+ 
+ &lt;h2 class="oasis-H2">Next-generation optimization software&lt;/h2>
+ &lt;p>OASIS delivers next-generation optimization capabilities that revolutionize traditional simulation and prototyping workflows 
+ through advanced optimization techniques. Applying industry-leading optimization techniques to your design process, 
+ lets you tackle the most pressing optimization challenges: 
+ &lt;/p></description></item><item><title/><link>https://www.turbotides.com/products/products-turbotides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/products-turbotides/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>TurboTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+
+ .download-button {
+ display: inline-block;
+ padding: 10px 15px;
+ background-color: #4472c4;
+ color: white;
+ text-decoration: none;
+ border-radius: 5px;
+ font-weight: bold;
+ transition: background-color 0.3s;
+ box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+ }
+
+ .download-button:hover {
+ background-color: #365899;
+ }
+
+ .download-button i {
+ margin-right: 8px;
+ }
+ .turbo-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .turbo-H2 {
+ color: #353333; 
+ font-size: 2rem;
+ line-height: 1;
+ margin: 2rem 0; 
+ text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); 
+ }
+ .turbo-H3 {
+ color: #2c3e50; 
+ font-size: 1.5rem;
+ }
+
+ p {
+ word-wrap: break-word; /* 允许长单词换行 */
+ white-space: normal; /* 默认行为，允许换行 */
+ hyphens: auto; /* 自动添加连字符 */
+ text-align: justify; /* 让文本两端对齐 */
+ }
+
+ ul { 
+ list-style-type: disc; 
+ margin-left: 20px; 
+ }
+
+ .turbo-image-container {
+ display: block;
+ width: 80%; /* 容器宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ text-align: center;
+ }
+ .turbo-image-container img {
+ display: block; /* 让图片变成块级元素 */
+ margin: 0 auto; /* 让图片水平居中 */
+ max-width: 100%; /* 确保不会超出父容器 */
+ height: auto;
+ }
+ .responsive-img {
+ width: 100%; /* 图片宽度为容器的100% */
+ height: auto; /* 保持图片的纵横比 */
+ display: block; /* 让图片作为块级元素 */
+ margin: 0 auto; /* 居中 */
+ }
+
+ /* 新的样式，只针对四张图片的容器 */
+ .turbo-images-row {
+ display: flex; /* 使用 flexbox 来水平排列图片 */
+ justify-content: space-between; /* 图片之间的间隔均等分配 */
+ width: 100%; /* 容器占满宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ }
+ .turbo-images-row img {
+ width: 20%; /* 设置每张图片的宽度为容器的 22% */
+ height: auto; /* 确保图片比例不变 */
+ margin-top: 0; 
+ margin-bottom: 0; 
+ }
+
+ /* 新增√符号的列表样式 */
+ .checklist {
+ list-style-type: none; /* 不使用默认的项目符号 */
+ padding-left: 0;
+ }
+ .checklist li {
+ display: flex; /* 确保符号和文字对齐 */
+ }
+ .checklist li::before {
+ content: '✓';
+ color: rgb(76, 83, 85); /* 勾选符号的颜色 */
+ margin-right: 20px; /* 符号与文本之间的间距 */
+ }
+
+ .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }
+ &lt;/style>
+&lt;/head>
+&lt;body class="turbo-page">
+ &lt;div class="header-container">
+ &lt;h1 class="turbo-H1">TurboTides&lt;/h1>
+ &lt;a href="https://www.turbotides.com/docs/TurboTides.pdf" class="download-button" download>
+ &lt;i class="fa fa-download">&lt;/i>Download PDF
+ &lt;/a>
+ &lt;/div>
+
+ 
+ &lt;h2 class="turbo-H2">Turbomachinery Integrated Design System&lt;/h2>
+ &lt;p>TurboTides is a specialized tool tailored specifically for turbomachinery design, based on systems engineering principles, 
+ offering turbomachinery industry users an integrated, intelligent, and customizable CAE design solution.
+ &lt;/p></description></item><item><title/><link>https://www.turbotides.com/products/turbotides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.turbotides.com/products/turbotides/</guid><description>&lt;div class="custom-html-content">
+ &lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+ &lt;title>TurboTides&lt;/title>
+ &lt;style>
+ .header-container {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ margin-top: 0;
+ margin-bottom: 1rem; 
+ }
+
+ .download-button {
+ display: inline-block;
+ padding: 10px 15px;
+ background-color: #4472c4;
+ color: white;
+ text-decoration: none;
+ border-radius: 5px;
+ font-weight: bold;
+ transition: background-color 0.3s;
+ box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+ }
+
+ .download-button:hover {
+ background-color: #365899;
+ }
+
+ .download-button i {
+ margin-right: 8px;
+ }
+ .turbo-H1 {
+ font-family: Arial, sans-serif;
+ font-size: 2.5rem;
+ line-height: 1;
+ margin: 0;
+ color: #4472c4;
+ text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
+ } 
+ .turbo-H2 {
+ color: #353333; 
+ font-size: 2rem;
+ line-height: 1;
+ margin: 2rem 0; 
+ text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); 
+ }
+ .turbo-H3 {
+ color: #2c3e50; 
+ font-size: 1.5rem;
+ }
+
+ p {
+ word-wrap: break-word; /* 允许长单词换行 */
+ white-space: normal; /* 默认行为，允许换行 */
+ hyphens: auto; /* 自动添加连字符 */
+ text-align: justify; /* 让文本两端对齐 */
+ }
+
+ ul { 
+ list-style-type: disc; 
+ margin-left: 20px; 
+ }
+
+ .turbo-image-container {
+ display: block;
+ width: 80%; /* 容器宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ text-align: center;
+ }
+ .turbo-image-container img {
+ display: block; /* 让图片变成块级元素 */
+ margin: 0 auto; /* 让图片水平居中 */
+ max-width: 100%; /* 确保不会超出父容器 */
+ height: auto;
+ }
+ .responsive-img {
+ width: 100%; /* 图片宽度为容器的100% */
+ height: auto; /* 保持图片的纵横比 */
+ display: block; /* 让图片作为块级元素 */
+ margin: 0 auto; /* 居中 */
+ }
+
+ /* 新的样式，只针对四张图片的容器 */
+ .turbo-images-row {
+ display: flex; /* 使用 flexbox 来水平排列图片 */
+ justify-content: space-between; /* 图片之间的间隔均等分配 */
+ width: 100%; /* 容器占满宽度 */
+ max-width: 1000px; /* 限制最大宽度 */
+ margin: 0 auto; /* 居中 */
+ }
+ .turbo-images-row img {
+ width: 20%; /* 设置每张图片的宽度为容器的 22% */
+ height: auto; /* 确保图片比例不变 */
+ margin-top: 0; 
+ margin-bottom: 0; 
+ }
+
+ /* 新增√符号的列表样式 */
+ .checklist {
+ list-style-type: none; /* 不使用默认的项目符号 */
+ padding-left: 0;
+ }
+ .checklist li {
+ display: flex; /* 确保符号和文字对齐 */
+ }
+ .checklist li::before {
+ content: '✓';
+ color: rgb(76, 83, 85); /* 勾选符号的颜色 */
+ margin-right: 20px; /* 符号与文本之间的间距 */
+ }
+
+ .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }
+ &lt;/style>
+&lt;/head>
+&lt;body class="turbo-page">
+ &lt;div class="header-container">
+ &lt;h1 class="turbo-H1">TurboTides&lt;/h1>
+ &lt;a href="https://www.turbotides.com/docs/TurboTides.pdf" class="download-button" download>
+ &lt;i class="fa fa-download">&lt;/i>Download PDF
+ &lt;/a>
+ &lt;/div>
+
+ 
+ &lt;h2 class="turbo-H2">Turbomachinery Integrated Design System&lt;/h2>
+ &lt;p>TurboTides is a specialized tool tailored specifically for turbomachinery design, based on systems engineering principles, 
+ offering turbomachinery industry users an integrated, intelligent, and customizable CAE design solution.
+ &lt;/p></description></item></channel></rss>
