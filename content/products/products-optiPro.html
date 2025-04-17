@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>OASIS/OptiPro</title>
+    <title>OASIS</title>
     <style>
         .header-container {
             display: flex;
@@ -10,7 +10,27 @@
             margin-top: 0;
             margin-bottom: 1rem; 
         }
-        .optiPro-H1 {
+
+        .download-button {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #4472c4;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+        }
+
+        .download-button:hover {
+            background-color: #365899;
+        }
+
+        .download-button i {
+            margin-right: 8px;
+        }
+        .oasis-H1 {
             font-family: Arial, sans-serif;
             font-size: 2.5rem;
             line-height: 1;
@@ -18,25 +38,168 @@
             color: #4472c4;
             text-shadow: 2px 2px 2px rgba(27, 27, 27, 0.5); 
         } 
-        .coming-soon-container {
-            text-align: center;
-            padding: 100px 20px;
-            max-width: 800px;
-            margin: 0 auto;
+        .oasis-H2 {
+            color: #353333; 
+            font-size: 2rem;
+            line-height: 1;
+            margin: 2rem 0;  
+            text-shadow: 1px 1px 2px rgba(27, 27, 27, 0.5); 
         }
-        .coming-soon-message {
+        .oasis-H3 {
+            color: #2c3e50; 
             font-size: 1.5rem;
-            color: #333;
-            line-height: 1.6;
         }
+
+        p {
+            word-wrap: break-word; /* 允许长单词换行 */
+            white-space: normal; /* 默认行为，允许换行 */
+            hyphens: auto; /* 自动添加连字符 */
+            text-align: justify; /* 让文本两端对齐 */
+        }
+
+        ul { 
+            list-style-type: disc; 
+            margin-left: 20px; 
+        }
+
+        .oasis-image-container {
+            display: block;
+            width: 80%; /* 容器宽度 */
+            max-width: 1000px; /* 限制最大宽度 */
+            margin: 0 auto; /* 居中 */
+            text-align: center;
+        }
+        .oasis-image-container img {
+            display: block; /* 让图片变成块级元素 */
+            margin: 0 auto; /* 让图片水平居中 */
+            max-width: 100%; /* 确保不会超出父容器 */
+            height: auto;
+        }
+        .responsive-img {
+            width: 100%; /* 图片宽度为容器的100% */
+            height: auto; /* 保持图片的纵横比 */
+            display: block; /* 让图片作为块级元素 */
+            margin: 0 auto; /* 居中 */
+        }
+
+        /* 新的样式，只针对四张图片的容器 */
+        .oasis-images-row {
+            display: flex; /* 使用 flexbox 来水平排列图片 */
+            justify-content: space-between; /* 图片之间的间隔均等分配 */
+            width: 100%; /* 容器占满宽度 */
+            max-width: 1000px; /* 限制最大宽度 */
+            margin: 0 auto; /* 居中 */
+        }
+        .oasis-images-row img {
+            width: 20%; /* 设置每张图片的宽度为容器的 22% */
+            height: auto; /* 确保图片比例不变 */
+            margin-top: 0; 
+            margin-bottom: 0; 
+        }
+
+        /* 新增√符号的列表样式 */
+        .checklist {
+            list-style-type: none; /* 不使用默认的项目符号 */
+            padding-left: 0;
+        }
+        .checklist li {
+            display: flex; /* 确保符号和文字对齐 */
+        }
+        .checklist li::before {
+            content: '✓';
+            color: rgb(76, 83, 85); /* 勾选符号的颜色 */
+            margin-right: 20px; /* 符号与文本之间的间距 */
+        }
+
+        .code-block { background-color: #f8f9fa; padding: 10px; border-radius: 5px; }
     </style>
 </head>
-<body class="optiPro-page">
-    <div class="header-container"></div>
-        <h1 class="optiPro-H1">OASIS/OptiPro</h1>
+<body class="oasis-page">
+    <div class="header-container">
+        <h1 class="oasis-H1">OASIS</h1>
+        <a href="/docs/OASIS.docx" class="download-button" download>
+            <i class="fa fa-download"></i>Download PDF
+        </a>
     </div>
-    <div class="coming-soon-container">
-        <p class="coming-soon-message">More content coming soon!</p>
+
+    
+    <h2 class="oasis-H2">Next-generation optimization software</h2>
+    <p>OASIS delivers next-generation optimization capabilities that revolutionize traditional simulation and prototyping workflows 
+        through advanced optimization techniques. Applying industry-leading optimization techniques to your design process, 
+        lets you tackle the most pressing optimization challenges: 
+    </p>
+    <ul>
+        <li>Single and multi-objective problems</li>
+        <li>Highly dimensional/multi-modal design space</li>
+        <li>Highly constrained (limited) objectives</li>
+    </ul>
+    <p>The powerful optimization engine driving OASIS lets you find your best design option in less time than conventional optimization tools.
+    </p>
+    <div class="oasis-image-container">
+        <img src="/img/products/oasis/1.png" alt="Next-generation optimization software">
     </div>
+
+
+    <h2 style="margin-top: 2rem;">MAIN FUNCTION</h2>
+    <h3>User-Friendly Interface</h3>
+    <p>OASIS provides an intuitive graphical user interface that enables users to efficiently define design objectives, 
+        constrain variables, and configure optimization parameters with streamlined setup procedures.
+    </p>
+    <div class="oasis-image-container">
+        <img src="/img/products/oasis/2.png" alt="OASIS software main interface">
+    </div>
+
+
+    <h3>AI-Driven Optimization Engine</h3>
+    <p>OASIS integrates four core optimization algorithms: single-objective global optimization, constrained single-objective optimization, 
+        multi-objective global optimization, and constrained multi-objective optimization. OASIS eliminates the need for algorithm selection or parameter tuning, 
+        allowing engineers to perform complex optimizations with one-click execution.
+    </p>
+    <div class="oasis-image-container">
+        <img src="/img/products/oasis/3.png" alt="OASIS software main interface">
+    </div>
+
+
+    <h3>Integration Framework</h3>
+    <p>OASIS provides three-tier interoperability solutions:</p>
+    <ul class="checklist">
+        <li>Script-Enabled Co-Simulation: Connects external tools through universal simulation interfaces using parametric control scripts.</li>
+        <li>CAE-Specific Plugin Integration: Delivers prebuilt plugins for mainstream CAE platforms to enable embedded optimization workflows.</li>
+        <li>API-Driven Optimization Services: Offers API endpoints for on-demand optimization service invocation and result streaming.</li>
+    </ul>
+    <div class="oasis-image-container">
+        <img src="/img/products/oasis/4.png" alt="Intelligent optimization process">
+    </div>
+
+
+    <h3>Visualization and Exploration</h3>
+    <p>OASIS provides simple-to-use visualization and exploration tools, using banded 2D and 3D plots for effective multidimensional design variable analysis. 
+        All variable changes are recorded in the optimization results sheet, which automatically connects to visualization displays.
+    </p>
+    <div class="oasis-image-container">
+        <img src="/img/products/oasis/5.png" alt="Geometric Modeling">
+    </div>
+    <p></p>
+    <div class="oasis-image-container"> 
+        <img src="/img/products/oasis/6.png" alt="PerformanceMap">
+    </div>
+
+
+    <h3>Decision Support</h3>
+    <p>OASIS's decision support module enables users to efficiently analyze multi-objective problems and assign weighting criteria for in-depth evaluation of solution trade-offs.
+    </p>
+    <div class="oasis-image-container">
+        <img src="/img/products/oasis/7.png" alt="CFD">
+    </div>
+
+
+    <h3>Automated Reporting</h3>
+    <p>Upon optimization completion, OASIS automatically generates structured technical reports for user analysis and presentation.</p>
+    <div class="oasis-image-container">
+        <img src="/img/products/oasis/8.png" alt="FEA">
+    </div>
+
+
+
 </body>
 </html>
