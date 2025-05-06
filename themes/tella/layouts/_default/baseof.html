@@ -2,6 +2,17 @@
 <html lang="{{ or .Site.Language.Lang "ja" }}">
 
 <head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2Q1C3BG03T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2Q1C3BG03T');
+</script>
+
   {{- partial "head.html" . -}}
   {{ block "meta_tags" . }}{{end}}
 </head>
